@@ -4,6 +4,7 @@ import os
 import glob
 import tqdm
 from time import time
+import pandas as pd
 
 """
 This module constains all the necessary functions to operate on the image files.
@@ -198,3 +199,25 @@ def palette_guess(img,palettes):
         if len(intersection) > 1:
             guesses.append((k,len(intersection)))
     return max(guesses,key=lambda x: x[1])[0]
+
+def roll(A,r):
+    """
+    Rolls rows of `A` by values given by `r`.
+    """
+    #reference: https://stackoverflow.com/a/20361561
+    rows, columns, channels = np.ogrid[:A.shape[0], :A.shape[1], :A.shape[2]]
+    r = r%A.shape[1]
+    columns = columns - r[:, np.newaxis, np.newaxis]
+    return A[rows, columns, channels]
+
+def symmetric_shift(A,bg_color=[255,255,255]):
+    """
+    Shifts each column of the mask `A` by its column-wise center points.
+    """
+    A = np.vstack([A,np.zeros_like(A)+np.array(bg_color)])
+    A_mask = color_threshold(A,sample_low=[bg_color],sample_high=[bg_color],invert=True)
+    h = A_mask.shape[0]/2
+    coords = pd.DataFrame(np.argwhere(A_mask),columns=['row','column'])
+    avg_line = coords.groupby('column').mean().reset_index().set_index('column').row.reindex(range(A.shape[1]),fill_value=0).to_numpy()
+    A = roll(A.transpose((1,0,2)),(h-avg_line).astype(int)).transpose((1,0,2))
+    return A
