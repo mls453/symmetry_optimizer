@@ -210,7 +210,7 @@ def roll(A,r):
     columns = columns - r[:, np.newaxis, np.newaxis]
     return A[rows, columns, channels]
 
-def symmetric_shift(A,bg_color=[255,255,255]):
+def horizontal_symmetric_shift(A,bg_color=[255,255,255]):
     """
     Shifts each column of the mask `A` by its column-wise center points.
     """
@@ -221,3 +221,13 @@ def symmetric_shift(A,bg_color=[255,255,255]):
     avg_line = coords.groupby('column').mean().reset_index().set_index('column').row.reindex(range(A.shape[1]),fill_value=0).to_numpy()
     A = roll(A.transpose((1,0,2)),(h-avg_line).astype(int)).transpose((1,0,2))
     return A
+
+def symmetric_shift(A,bg_color=[255,255,255]):
+    """
+    Applies horizontal and vertical symmetric shift, in that order.
+    """
+    A = horizontal_symmetric_shift(A,bg_color)
+    A = A.transpose(1,0,2)
+    A = horizontal_symmetric_shift(A,bg_color)
+    return A.transpose(1,0,2)
+
