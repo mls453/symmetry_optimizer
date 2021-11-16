@@ -1821,3 +1821,1347 @@
 2021-11-14 14:53:54,025 - parso.python.diff - MainThread -  DEBUG - -> code[replace] old[1:1] new[1:1]
 2021-11-14 14:53:54,026 - parso.python.diff - MainThread -  DEBUG - parse_part from 1 to 1 (to 0 in part parser)
 2021-11-14 14:53:54,026 - parso.python.diff - MainThread -  DEBUG - diff parser end
+2021-11-14 21:46:53,450 - matplotlib.font_manager - MainThread -  DEBUG - findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0.
+2021-11-14 21:46:53,450 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymBol.ttf) normal normal 700 normal>) = 10.335
+2021-11-14 21:46:53,450 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'DejaVu Sans Display' (DejaVuSansDisplay.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,450 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2021-11-14 21:46:53,450 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymReg.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,450 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'cmss10' (cmss10.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,450 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+2021-11-14 21:46:53,450 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'DejaVu Serif' (DejaVuSerif.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,450 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXNonUnicode' (STIXNonUniIta.ttf) italic normal 400 normal>) = 11.05
+2021-11-14 21:46:53,451 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,451 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2021-11-14 21:46:53,451 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXGeneral' (STIXGeneral.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,451 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2021-11-14 21:46:53,451 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXNonUnicode' (STIXNonUni.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,451 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymReg.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,451 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Oblique.ttf) oblique normal 400 normal>) = 1.05
+2021-11-14 21:46:53,451 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXGeneral' (STIXGeneralItalic.ttf) italic normal 400 normal>) = 11.05
+2021-11-14 21:46:53,451 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXGeneral' (STIXGeneralBol.ttf) normal normal 700 normal>) = 10.335
+2021-11-14 21:46:53,451 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'cmr10' (cmr10.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,451 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'cmsy10' (cmsy10.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,451 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymReg.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,451 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymBol.ttf) normal normal 700 normal>) = 10.335
+2021-11-14 21:46:53,451 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'cmex10' (cmex10.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,451 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+2021-11-14 21:46:53,451 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'DejaVu Serif Display' (DejaVuSerifDisplay.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,452 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'cmb10' (cmb10.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,452 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXSizeFiveSym' (STIXSizFiveSymReg.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,452 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'DejaVu Sans' (DejaVuSans-BoldOblique.ttf) oblique normal 700 normal>) = 1.335
+2021-11-14 21:46:53,452 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'cmtt10' (cmtt10.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,452 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'cmmi10' (cmmi10.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,452 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBolIta.ttf) italic normal 700 normal>) = 11.335
+2021-11-14 21:46:53,452 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymReg.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,452 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBol.ttf) normal normal 700 normal>) = 10.335
+2021-11-14 21:46:53,452 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 0.05
+2021-11-14 21:46:53,452 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2021-11-14 21:46:53,452 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal 700 normal>) = 0.33499999999999996
+2021-11-14 21:46:53,452 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymBol.ttf) normal normal 700 normal>) = 10.335
+2021-11-14 21:46:53,452 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymBol.ttf) normal normal 700 normal>) = 10.335
+2021-11-14 21:46:53,452 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXGeneral' (STIXGeneralBolIta.ttf) italic normal 700 normal>) = 11.335
+2021-11-14 21:46:53,452 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Sinhala MN' (Sinhala MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,452 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'DIN Alternate' (DIN Alternate Bold.ttf) normal normal 700 normal>) = 10.335
+2021-11-14 21:46:53,452 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Avenir Next' (Avenir Next.ttc) normal normal 700 normal>) = 10.335
+2021-11-14 21:46:53,453 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W1.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,453 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Webdings' (Webdings.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,453 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Trebuchet MS' (Trebuchet MS Italic.ttf) italic normal 400 normal>) = 11.05
+2021-11-14 21:46:53,453 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymBol.otf) normal normal 700 normal>) = 10.335
+2021-11-14 21:46:53,453 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Coptic' (NotoSansCoptic-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,453 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W9.ttc) normal normal 700 normal>) = 10.335
+2021-11-14 21:46:53,453 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF NS Display Condensed' (SFNSDisplayCondensed-Thin.otf) normal normal 400 condensed>) = 10.25
+2021-11-14 21:46:53,453 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Helvetica' (Helvetica.ttc) normal normal 400 normal>) = 7.322727272727273
+2021-11-14 21:46:53,453 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Heiti TC' (STHeiti Medium.ttc) normal normal 700 normal>) = 10.335
+2021-11-14 21:46:53,453 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Savoye LET' (Savoye LET.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,453 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Apple Braille' (Apple Braille.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,453 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Gurmukhi MT' (Gurmukhi.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,453 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Times' (Times.ttc) normal normal roman normal>) = 10.145
+2021-11-14 21:46:53,453 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Herculanum' (Herculanum.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,453 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'System Font' (SFNSItalic.ttf) italic normal regular normal>) = 11.05
+2021-11-14 21:46:53,453 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Kayah Li' (NotoSansKayahLi-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,453 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Waseem' (Waseem.ttc) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,454 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Luminari' (Luminari.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,454 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.Keyboard' (Keyboard.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,454 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Arial' (Arial Bold Italic.ttf) italic normal 700 normal>) = 7.698636363636363
+2021-11-14 21:46:53,454 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Rejang' (NotoSansRejang-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,454 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF NS Text Condensed' (SFNSTextCondensed-Semibold.otf) normal normal semibold condensed>) = 10.44
+2021-11-14 21:46:53,454 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Hiragino Mincho ProN' (ヒラギノ明朝 ProN.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,454 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Oriya MN' (Oriya MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,454 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Al Tarikh' (Al Tarikh.ttc) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,454 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXNonUnicode' (STIXNonUni.otf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,454 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXIntegralsUpD' (STIXIntUpDReg.otf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,454 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Big Caslon' (BigCaslon.ttf) normal normal medium normal>) = 10.145
+2021-11-14 21:46:53,454 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXGeneral' (STIXGeneral.otf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,454 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Syloti Nagri' (NotoSansSylotiNagri-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,454 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Kharoshthi' (NotoSansKharoshthi-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,454 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Mshtakan' (Mshtakan.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,454 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Limbu' (NotoSansLimbu-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,454 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF Compact Text' (SFCompactTextItalic.ttf) italic normal 400 normal>) = 11.05
+2021-11-14 21:46:53,454 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Mishafi Gold' (Mishafi Gold.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,455 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Verdana' (Verdana Italic.ttf) italic normal 400 normal>) = 4.6863636363636365
+2021-11-14 21:46:53,455 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Tai Viet' (NotoSansTaiViet-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,455 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Georgia' (Georgia Bold Italic.ttf) italic normal 700 normal>) = 11.335
+2021-11-14 21:46:53,455 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans New Tai Lue' (NotoSansNewTaiLue-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,455 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Arial Narrow' (Arial Narrow Bold.ttf) normal normal 700 condensed>) = 10.535
+2021-11-14 21:46:53,455 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'PT Serif' (PTSerif.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,455 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXIntegralsSm' (STIXIntSmBol.otf) normal normal 700 normal>) = 10.335
+2021-11-14 21:46:53,455 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Apple Braille' (Apple Braille Pinpoint 6 Dot.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,455 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXVariants' (STIXVarBol.otf) normal normal 700 normal>) = 10.335
+2021-11-14 21:46:53,455 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W2.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,455 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Chakma' (NotoSansChakma-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,455 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Galvji' (Galvji.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,455 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W0.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,455 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Lycian' (NotoSansLycian-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,455 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Palatino' (Palatino.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,455 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Ayuthaya' (Ayuthaya.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,455 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXGeneral' (STIXGeneralBol.otf) normal normal 700 normal>) = 10.335
+2021-11-14 21:46:53,456 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W3.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,456 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF NS Display Condensed' (SFNSDisplayCondensed-Regular.otf) normal normal regular condensed>) = 10.25
+2021-11-14 21:46:53,456 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'DIN Condensed' (DIN Condensed Bold.ttf) normal normal 700 condensed>) = 10.535
+2021-11-14 21:46:53,456 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'KufiStandardGK' (KufiStandardGK.ttc) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,456 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Didot' (Didot.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,456 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.Aqua Kana' (AquaKana.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,456 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Rockwell' (Rockwell.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,456 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF NS Text Condensed' (SFNSTextCondensed-Heavy.otf) normal normal heavy condensed>) = 10.629999999999999
+2021-11-14 21:46:53,456 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Shree Devanagari 714' (Shree714.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,456 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Athelas' (Athelas.ttc) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,456 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Tifinagh' (NotoSansTifinagh-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,456 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Phoenician' (NotoSansPhoenician-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,456 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Myanmar Sangam MN' (Myanmar Sangam MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,456 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Arial' (Arial Italic.ttf) italic normal 400 normal>) = 7.413636363636363
+2021-11-14 21:46:53,456 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Damascus' (Damascus.ttc) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,456 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Cham' (NotoSansCham-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,456 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Hanunoo' (NotoSansHanunoo-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,457 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Helvetica Neue' (HelveticaNeue.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,457 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Imperial Aramaic' (NotoSansImperialAramaic-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,457 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.Helvetica Neue DeskInterface' (HelveticaNeueDeskInterface.ttc) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,457 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Copperplate' (Copperplate.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,457 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.New York' (NewYorkItalic.ttf) italic normal 400 normal>) = 11.05
+2021-11-14 21:46:53,457 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Symbol' (Symbol.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,457 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'PingFang HK' (PingFang.ttc) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,457 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Gothic' (NotoSansGothic-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,457 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXIntegralsUpSm' (STIXIntUpSmBol.otf) normal normal 700 normal>) = 10.335
+2021-11-14 21:46:53,457 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Kohinoor Devanagari' (Kohinoor.ttc) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,457 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Krungthep' (Krungthep.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,457 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans NKo' (NotoSansNKo-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,457 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Myanmar MN' (Myanmar MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,457 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Georgia' (Georgia Italic.ttf) italic normal 400 normal>) = 11.05
+2021-11-14 21:46:53,457 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Comic Sans MS' (Comic Sans MS Bold.ttf) normal normal 700 normal>) = 10.335
+2021-11-14 21:46:53,457 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Kohinoor Telugu' (KohinoorTelugu.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,457 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Apple Chancery' (Apple Chancery.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,457 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Tai Le' (NotoSansTaiLe-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,458 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Songti SC' (Songti.ttc) normal normal black normal>) = 10.525
+2021-11-14 21:46:53,458 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymBol.otf) normal normal 700 normal>) = 10.335
+2021-11-14 21:46:53,458 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Sukhumvit Set' (SukhumvitSet.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,458 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF Compact Display' (SFCompactDisplay.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,458 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Khmer Sangam MN' (Khmer Sangam MN.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,458 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Silom' (Silom.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,458 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXGeneral' (STIXGeneralBolIta.otf) italic normal 700 normal>) = 11.335
+2021-11-14 21:46:53,458 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXIntegralsUp' (STIXIntUpReg.otf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,458 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Charter' (Charter.ttc) normal normal roman normal>) = 10.145
+2021-11-14 21:46:53,458 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'InaiMathi' (InaiMathi-MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,458 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Courier New' (Courier New Bold.ttf) normal normal 700 normal>) = 10.335
+2021-11-14 21:46:53,458 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXVariants' (STIXVar.otf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,458 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Bangla Sangam MN' (Bangla Sangam MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,458 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF NS Text Condensed' (SFNSTextCondensed-Light.otf) normal normal light condensed>) = 10.44
+2021-11-14 21:46:53,458 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.LastResort' (LastResort.otf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,458 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'PT Mono' (PTMono.ttc) normal normal 700 normal>) = 10.335
+2021-11-14 21:46:53,458 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF NS Display Condensed' (SFNSDisplayCondensed-Black.otf) normal normal black condensed>) = 10.725
+2021-11-14 21:46:53,459 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF NS Display Condensed' (SFNSDisplayCondensed-Semibold.otf) normal normal semibold condensed>) = 10.44
+2021-11-14 21:46:53,459 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Carian' (NotoSansCarian-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,459 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Geeza Pro' (GeezaPro.ttc) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,459 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Nadeem' (Nadeem.ttc) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,459 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Hiragino Sans GB' (Hiragino Sans GB.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,459 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Tahoma' (Tahoma Bold.ttf) normal normal 700 normal>) = 10.335
+2021-11-14 21:46:53,459 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Runic' (NotoSansRunic-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,459 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Sinhala Sangam MN' (Sinhala Sangam MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,459 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Trebuchet MS' (Trebuchet MS Bold Italic.ttf) italic normal 700 normal>) = 11.335
+2021-11-14 21:46:53,459 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Ugaritic' (NotoSansUgaritic-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,459 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Devanagari Sangam MN' (Devanagari Sangam MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,459 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Bamum' (NotoSansBamum-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,459 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXIntegralsD' (STIXIntDBol.otf) normal normal 700 normal>) = 10.335
+2021-11-14 21:46:53,459 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noteworthy' (Noteworthy.ttc) normal normal light normal>) = 10.24
+2021-11-14 21:46:53,459 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Bodoni 72 Smallcaps' (Bodoni 72 Smallcaps Book.ttf) normal normal book normal>) = 10.05
+2021-11-14 21:46:53,459 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Thaana' (NotoSansThaana-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,459 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Microsoft Sans Serif' (Microsoft Sans Serif.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,460 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Hiragino Maru Gothic Pro' (ヒラギノ丸ゴ ProN W4.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,460 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXIntegralsSm' (STIXIntSmReg.otf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,460 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Linear B' (NotoSansLinearB-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,460 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Heiti TC' (STHeiti Light.ttc) normal normal light normal>) = 10.24
+2021-11-14 21:46:53,460 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Optima' (Optima.ttc) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,460 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Apple Braille' (Apple Braille Outline 6 Dot.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,460 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Euphemia UCAS' (EuphemiaCAS.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,460 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Gujarati MT' (GujaratiMT.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,460 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.Arabic UI Text' (ArabicUIText.ttc) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,460 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBol.otf) normal normal 700 normal>) = 10.335
+2021-11-14 21:46:53,460 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Samaritan' (NotoSansSamaritan-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,460 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Verdana' (Verdana Bold.ttf) normal normal 700 normal>) = 3.9713636363636367
+2021-11-14 21:46:53,460 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Wingdings' (Wingdings.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,460 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Tamil Sangam MN' (Tamil Sangam MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,460 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Seravek' (Seravek.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,460 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Zapfino' (Zapfino.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,460 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'DecoType Naskh' (DecoTypeNaskh.ttc) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,461 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXIntegralsUpSm' (STIXIntUpSmReg.otf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,461 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF NS Display Condensed' (SFNSDisplayCondensed-Bold.otf) normal normal bold condensed>) = 10.535
+2021-11-14 21:46:53,461 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Inscriptional Pahlavi' (NotoSansInscriptionalPahlavi-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,461 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Baskerville' (Baskerville.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,461 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Cochin' (Cochin.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,461 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Raanana' (Raanana.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,461 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF NS Text Condensed' (SFNSTextCondensed-Bold.otf) normal normal bold condensed>) = 10.535
+2021-11-14 21:46:53,461 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymReg.otf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,461 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Apple Braille' (Apple Braille Outline 8 Dot.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,461 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Malayalam MN' (Malayalam MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,461 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Beirut' (Beirut.ttc) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,461 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF NS Display Condensed' (SFNSDisplayCondensed-Medium.otf) normal normal medium condensed>) = 10.344999999999999
+2021-11-14 21:46:53,461 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Lydian' (NotoSansLydian-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,461 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Chalkboard SE' (ChalkboardSE.ttc) normal normal light normal>) = 10.24
+2021-11-14 21:46:53,461 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Georgia' (Georgia.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,461 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Al Nile' (Al Nile.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,461 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Lucida Grande' (LucidaGrande.ttc) normal normal 400 normal>) = 2.777272727272727
+2021-11-14 21:46:53,461 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Ogham' (NotoSansOgham-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,462 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXNonUnicode' (STIXNonUniIta.otf) italic normal 400 normal>) = 11.05
+2021-11-14 21:46:53,462 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Glagolitic' (NotoSansGlagolitic-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,462 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Arial Unicode MS' (Arial Unicode.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,462 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Menlo' (Menlo.ttc) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,462 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'PT Serif Caption' (PTSerifCaption.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,462 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Arial Hebrew' (ArialHB.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,462 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF NS Mono' (SFNSMono.ttf) normal normal light normal>) = 10.24
+2021-11-14 21:46:53,462 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Avestan' (NotoSansAvestan-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,462 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Arial' (Arial.ttf) normal normal 400 normal>) = 6.413636363636363
+2021-11-14 21:46:53,462 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Apple Symbols' (Apple Symbols.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,462 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Armenian' (NotoSansArmenian.ttc) normal normal black normal>) = 10.525
+2021-11-14 21:46:53,462 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Corsiva Hebrew' (Corsiva.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,462 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Farah' (Farah.ttc) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,462 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Futura' (Futura.ttc) normal normal medium normal>) = 10.145
+2021-11-14 21:46:53,462 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Kohinoor Bangla' (KohinoorBangla.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,462 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Arial Rounded MT Bold' (Arial Rounded Bold.ttf) normal normal bold normal>) = 10.335
+2021-11-14 21:46:53,462 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Lao Sangam MN' (Lao Sangam MN.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,463 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Kailasa' (Kailasa.ttc) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,463 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Times New Roman' (Times New Roman.ttf) normal normal roman normal>) = 10.145
+2021-11-14 21:46:53,463 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF NS Text Condensed' (SFNSTextCondensed-Medium.otf) normal normal medium condensed>) = 10.344999999999999
+2021-11-14 21:46:53,463 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Impact' (Impact.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,463 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF NS Display Condensed' (SFNSDisplayCondensed-Light.otf) normal normal light condensed>) = 10.44
+2021-11-14 21:46:53,463 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Apple SD Gothic Neo' (AppleSDGothicNeo.ttc) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,463 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Bodoni 72 Oldstyle' (Bodoni 72 OS.ttc) normal normal book normal>) = 10.05
+2021-11-14 21:46:53,463 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Avenir' (Avenir.ttc) normal normal book normal>) = 10.05
+2021-11-14 21:46:53,463 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Gurmukhi MN' (Gurmukhi MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,463 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Shavian' (NotoSansShavian-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,463 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Arial Unicode MS' (Arial Unicode.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,463 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Diwan Kufi' (Diwan Kufi.ttc) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,463 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'SignPainter' (SignPainter.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,463 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymBol.otf) normal normal 700 normal>) = 10.335
+2021-11-14 21:46:53,463 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Myanmar' (NotoSansMyanmar.ttc) normal normal black normal>) = 10.525
+2021-11-14 21:46:53,463 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Al Bayan' (AlBayan.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,463 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF Compact Text' (SFCompactText.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,464 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Osmanya' (NotoSansOsmanya-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,464 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXSizeFiveSym' (STIXSizFiveSymReg.otf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,464 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF NS Mono' (SFNSMonoItalic.ttf) italic normal light normal>) = 11.24
+2021-11-14 21:46:53,464 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Oriya Sangam MN' (Oriya Sangam MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,464 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'AppleMyungjo' (AppleMyungjo.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,464 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Kohinoor Gujarati' (KohinoorGujarati.ttc) normal normal bold normal>) = 10.335
+2021-11-14 21:46:53,464 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXIntegralsUp' (STIXIntUpBol.otf) normal normal 700 normal>) = 10.335
+2021-11-14 21:46:53,464 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Serif Myanmar' (NotoSerifMyanmar.ttc) normal normal black normal>) = 10.525
+2021-11-14 21:46:53,464 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Cypriot' (NotoSansCypriot-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,464 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Bangla MN' (Bangla MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,464 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Lao MN' (Lao MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,464 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Nastaliq Urdu' (NotoNastaliq.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,464 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymBol.otf) normal normal 700 normal>) = 10.335
+2021-11-14 21:46:53,464 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Farisi' (Farisi.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,464 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Times New Roman' (Times New Roman Bold Italic.ttf) italic normal 700 normal>) = 11.335
+2021-11-14 21:46:53,464 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Egyptian Hieroglyphs' (NotoSansEgyptianHieroglyphs-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,464 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Tagalog' (NotoSansTagalog-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,465 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXGeneral' (STIXGeneralItalic.otf) italic normal 400 normal>) = 11.05
+2021-11-14 21:46:53,465 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Courier New' (Courier New Bold Italic.ttf) italic normal 700 normal>) = 11.335
+2021-11-14 21:46:53,465 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'American Typewriter' (AmericanTypewriter.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,465 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Brahmi' (NotoSansBrahmi-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,465 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF NS Display Condensed' (SFNSDisplayCondensed-Heavy.otf) normal normal heavy condensed>) = 10.629999999999999
+2021-11-14 21:46:53,465 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Apple Braille' (Apple Braille Pinpoint 8 Dot.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,465 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Inscriptional Parthian' (NotoSansInscriptionalParthian-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,465 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Tamil MN' (Tamil MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,465 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Kokonor' (Kokonor.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,465 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Courier New' (Courier New Italic.ttf) italic normal 400 normal>) = 11.05
+2021-11-14 21:46:53,465 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Telugu MN' (Telugu MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,465 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Gujarati Sangam MN' (Gujarati Sangam MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,465 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Courier New' (Courier New.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,465 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Kannada MN' (Kannada MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,465 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W6.ttc) normal normal 700 normal>) = 10.335
+2021-11-14 21:46:53,465 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Plantagenet Cherokee' (PlantagenetCherokee.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,465 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Devanagari MT' (DevanagariMT.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,465 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'New Peninim MT' (NewPeninimMT.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,466 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Bradley Hand' (Bradley Hand Bold.ttf) normal normal bold normal>) = 10.335
+2021-11-14 21:46:53,466 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans PhagsPa' (NotoSansPhagsPa-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,466 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Sathu' (Sathu.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,466 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W7.ttc) normal normal 700 normal>) = 10.335
+2021-11-14 21:46:53,466 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXIntegralsUpD' (STIXIntUpDBol.otf) normal normal 700 normal>) = 10.335
+2021-11-14 21:46:53,466 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Sundanese' (NotoSansSundanese-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,466 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Meetei Mayek' (NotoSansMeeteiMayek-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,466 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Old South Arabian' (NotoSansOldSouthArabian-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,466 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Oriya' (NotoSansOriya.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,466 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Arial Narrow' (Arial Narrow Bold Italic.ttf) italic normal 700 condensed>) = 11.535
+2021-11-14 21:46:53,466 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W4.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,466 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Phosphate' (Phosphate.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,466 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Muna' (Muna.ttc) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,466 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Comic Sans MS' (Comic Sans MS.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,466 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Old Turkic' (NotoSansOldTurkic-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,466 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Gurmukhi Sangam MN' (Gurmukhi Sangam MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,466 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Lisu' (NotoSansLisu-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,467 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Hoefler Text' (Hoefler Text.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,467 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Arial' (Arial Bold.ttf) normal normal 700 normal>) = 6.698636363636363
+2021-11-14 21:46:53,467 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Arial Narrow' (Arial Narrow.ttf) normal normal 400 condensed>) = 10.25
+2021-11-14 21:46:53,467 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF NS Rounded' (SFNSRounded.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,467 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Lepcha' (NotoSansLepcha-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,467 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Cuneiform' (NotoSansCuneiform-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,467 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Yi' (NotoSansYi-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,467 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Skia' (Skia.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,467 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Iowan Old Style' (Iowan Old Style.ttc) normal normal roman normal>) = 10.145
+2021-11-14 21:46:53,467 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Batak' (NotoSansBatak-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,467 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Kannada' (NotoSansKannada.ttc) normal normal black normal>) = 10.525
+2021-11-14 21:46:53,467 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Kefa' (Kefa.ttc) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,467 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Vai' (NotoSansVai-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,467 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Old Persian' (NotoSansOldPersian-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,467 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Chalkduster' (Chalkduster.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,467 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Trattatello' (Trattatello.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,467 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Baghdad' (Baghdad.ttc) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,467 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Hoefler Text' (Hoefler Text Ornaments.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,468 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF NS Text Condensed' (SFNSTextCondensed-Regular.otf) normal normal regular condensed>) = 10.25
+2021-11-14 21:46:53,468 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Verdana' (Verdana Bold Italic.ttf) italic normal 700 normal>) = 4.971363636363637
+2021-11-14 21:46:53,468 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Javanese' (NotoSansJavanese-Regular.otf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,468 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymReg.otf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,468 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Avenir Next Condensed' (Avenir Next Condensed.ttc) normal normal 700 condensed>) = 10.535
+2021-11-14 21:46:53,468 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Thonburi' (Thonburi.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,468 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W8.ttc) normal normal 700 normal>) = 10.335
+2021-11-14 21:46:53,468 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF NS Display Condensed' (SFNSDisplayCondensed-Ultralight.otf) normal normal ultralight condensed>) = 10.535
+2021-11-14 21:46:53,468 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Tai Tham' (NotoSansTaiTham-Regular.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,468 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Arial Narrow' (Arial Narrow Italic.ttf) italic normal 400 condensed>) = 11.25
+2021-11-14 21:46:53,468 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Trebuchet MS' (Trebuchet MS.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,468 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Mongolian' (NotoSansMongolian-Regular.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,468 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Buginese' (NotoSansBuginese-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,468 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'AppleGothic' (AppleGothic.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,468 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Wingdings 3' (Wingdings 3.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,468 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.New York' (NewYork.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,468 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Kaithi' (NotoSansKaithi-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,469 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Times New Roman' (Times New Roman Italic.ttf) italic normal roman normal>) = 11.145
+2021-11-14 21:46:53,469 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Khmer MN' (Khmer MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,469 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Kannada Sangam MN' (Kannada Sangam MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,469 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.Arabic UI Display' (ArabicUIDisplay.ttc) normal normal black normal>) = 10.525
+2021-11-14 21:46:53,469 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Tagbanwa' (NotoSansTagbanwa-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,469 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'System Font' (SFNS.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,469 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Marion' (Marion.ttc) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,469 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Tahoma' (Tahoma.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,469 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Bodoni Ornaments' (Bodoni Ornaments.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,469 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Mandaic' (NotoSansMandaic-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,469 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Georgia' (Georgia Bold.ttf) normal normal 700 normal>) = 10.335
+2021-11-14 21:46:53,469 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Buhid' (NotoSansBuhid-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,469 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Gill Sans' (GillSans.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,469 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Chalkboard' (Chalkboard.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,469 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Wingdings 2' (Wingdings 2.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,469 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Serif Balinese' (NotoSerifBalinese-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,469 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Saurashtra' (NotoSansSaurashtra-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,469 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Papyrus' (Papyrus.ttc) normal normal 400 condensed>) = 10.25
+2021-11-14 21:46:53,469 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Superclarendon' (SuperClarendon.ttc) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,470 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBolIta.otf) italic normal 700 normal>) = 11.335
+2021-11-14 21:46:53,470 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF Compact Rounded' (SFCompactRounded.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,470 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Andale Mono' (Andale Mono.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,470 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Times New Roman' (Times New Roman Bold.ttf) normal normal 700 normal>) = 10.335
+2021-11-14 21:46:53,470 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymReg.otf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,470 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Malayalam Sangam MN' (Malayalam Sangam MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,470 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Marker Felt' (MarkerFelt.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,470 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Diwan Thuluth' (Diwan Thuluth.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,470 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Sana' (Sana.ttc) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,470 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Brush Script MT' (Brush Script.ttf) italic normal 400 normal>) = 11.05
+2021-11-14 21:46:53,470 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'ITF Devanagari' (ITFDevanagari.ttc) normal normal book normal>) = 10.05
+2021-11-14 21:46:53,470 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Telugu Sangam MN' (Telugu Sangam MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,470 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Zapf Dingbats' (ZapfDingbats.ttf) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,470 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Verdana' (Verdana.ttf) normal normal 400 normal>) = 3.6863636363636365
+2021-11-14 21:46:53,470 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Arial Black' (Arial Black.ttf) normal normal black normal>) = 10.525
+2021-11-14 21:46:53,470 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Old Italic' (NotoSansOldItalic-Regular.ttf) italic normal regular normal>) = 11.05
+2021-11-14 21:46:53,470 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXIntegralsD' (STIXIntDReg.otf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,470 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'PT Sans' (PTSans.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,470 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Bodoni 72' (Bodoni 72.ttc) normal normal book normal>) = 10.05
+2021-11-14 21:46:53,471 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Trebuchet MS' (Trebuchet MS Bold.ttf) normal normal 700 normal>) = 10.335
+2021-11-14 21:46:53,471 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W5.ttc) normal normal 700 normal>) = 10.335
+2021-11-14 21:46:53,471 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Syriac' (NotoSansSyriac-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,471 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Snell Roundhand' (SnellRoundhand.ttc) normal normal 400 normal>) = 10.05
+2021-11-14 21:46:53,471 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Ol Chiki' (NotoSansOlChiki-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,471 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Mishafi' (Mishafi.ttf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,471 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymReg.otf) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,471 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Mukta Mahee' (MuktaMahee.ttc) normal normal regular normal>) = 10.05
+2021-11-14 21:46:53,471 - matplotlib.font_manager - MainThread -  DEBUG - findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/usr/local/Cellar/jupyterlab/2.1.5/libexec/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2021-11-15 23:34:50,763 - matplotlib.font_manager - MainThread -  DEBUG - findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0.
+2021-11-15 23:34:50,765 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymBol.ttf) normal normal 700 normal>) = 10.335
+2021-11-15 23:34:50,765 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'DejaVu Sans Display' (DejaVuSansDisplay.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,765 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2021-11-15 23:34:50,765 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymReg.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,765 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'cmss10' (cmss10.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,765 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+2021-11-15 23:34:50,765 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'DejaVu Serif' (DejaVuSerif.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,765 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXNonUnicode' (STIXNonUniIta.ttf) italic normal 400 normal>) = 11.05
+2021-11-15 23:34:50,765 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,765 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2021-11-15 23:34:50,766 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXGeneral' (STIXGeneral.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,766 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2021-11-15 23:34:50,766 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXNonUnicode' (STIXNonUni.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,766 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymReg.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,766 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Oblique.ttf) oblique normal 400 normal>) = 1.05
+2021-11-15 23:34:50,766 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXGeneral' (STIXGeneralItalic.ttf) italic normal 400 normal>) = 11.05
+2021-11-15 23:34:50,766 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXGeneral' (STIXGeneralBol.ttf) normal normal 700 normal>) = 10.335
+2021-11-15 23:34:50,766 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'cmr10' (cmr10.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,766 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'cmsy10' (cmsy10.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,766 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymReg.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,766 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymBol.ttf) normal normal 700 normal>) = 10.335
+2021-11-15 23:34:50,766 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'cmex10' (cmex10.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,766 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+2021-11-15 23:34:50,766 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'DejaVu Serif Display' (DejaVuSerifDisplay.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,767 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'cmb10' (cmb10.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,767 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXSizeFiveSym' (STIXSizFiveSymReg.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,767 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'DejaVu Sans' (DejaVuSans-BoldOblique.ttf) oblique normal 700 normal>) = 1.335
+2021-11-15 23:34:50,767 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'cmtt10' (cmtt10.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,767 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'cmmi10' (cmmi10.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,767 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBolIta.ttf) italic normal 700 normal>) = 11.335
+2021-11-15 23:34:50,767 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymReg.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,767 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBol.ttf) normal normal 700 normal>) = 10.335
+2021-11-15 23:34:50,767 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 0.05
+2021-11-15 23:34:50,767 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2021-11-15 23:34:50,767 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal 700 normal>) = 0.33499999999999996
+2021-11-15 23:34:50,767 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymBol.ttf) normal normal 700 normal>) = 10.335
+2021-11-15 23:34:50,767 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymBol.ttf) normal normal 700 normal>) = 10.335
+2021-11-15 23:34:50,767 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXGeneral' (STIXGeneralBolIta.ttf) italic normal 700 normal>) = 11.335
+2021-11-15 23:34:50,767 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Sinhala MN' (Sinhala MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,768 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'DIN Alternate' (DIN Alternate Bold.ttf) normal normal 700 normal>) = 10.335
+2021-11-15 23:34:50,768 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Avenir Next' (Avenir Next.ttc) normal normal 700 normal>) = 10.335
+2021-11-15 23:34:50,768 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W1.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,768 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Webdings' (Webdings.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,768 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Trebuchet MS' (Trebuchet MS Italic.ttf) italic normal 400 normal>) = 11.05
+2021-11-15 23:34:50,768 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymBol.otf) normal normal 700 normal>) = 10.335
+2021-11-15 23:34:50,768 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Coptic' (NotoSansCoptic-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,768 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W9.ttc) normal normal 700 normal>) = 10.335
+2021-11-15 23:34:50,768 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF NS Display Condensed' (SFNSDisplayCondensed-Thin.otf) normal normal 400 condensed>) = 10.25
+2021-11-15 23:34:50,768 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Helvetica' (Helvetica.ttc) normal normal 400 normal>) = 7.322727272727273
+2021-11-15 23:34:50,768 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Heiti TC' (STHeiti Medium.ttc) normal normal 700 normal>) = 10.335
+2021-11-15 23:34:50,768 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Savoye LET' (Savoye LET.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,768 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Apple Braille' (Apple Braille.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,768 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Gurmukhi MT' (Gurmukhi.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,768 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Times' (Times.ttc) normal normal roman normal>) = 10.145
+2021-11-15 23:34:50,769 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Herculanum' (Herculanum.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,769 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'System Font' (SFNSItalic.ttf) italic normal regular normal>) = 11.05
+2021-11-15 23:34:50,769 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Kayah Li' (NotoSansKayahLi-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,769 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Waseem' (Waseem.ttc) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,769 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Luminari' (Luminari.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,769 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.Keyboard' (Keyboard.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,769 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Arial' (Arial Bold Italic.ttf) italic normal 700 normal>) = 7.698636363636363
+2021-11-15 23:34:50,769 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Rejang' (NotoSansRejang-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,769 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF NS Text Condensed' (SFNSTextCondensed-Semibold.otf) normal normal semibold condensed>) = 10.44
+2021-11-15 23:34:50,769 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Hiragino Mincho ProN' (ヒラギノ明朝 ProN.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,769 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Oriya MN' (Oriya MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,769 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Al Tarikh' (Al Tarikh.ttc) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,769 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXNonUnicode' (STIXNonUni.otf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,769 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXIntegralsUpD' (STIXIntUpDReg.otf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,769 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Big Caslon' (BigCaslon.ttf) normal normal medium normal>) = 10.145
+2021-11-15 23:34:50,770 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXGeneral' (STIXGeneral.otf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,770 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Syloti Nagri' (NotoSansSylotiNagri-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,770 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Kharoshthi' (NotoSansKharoshthi-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,770 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Mshtakan' (Mshtakan.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,770 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Limbu' (NotoSansLimbu-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,770 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF Compact Text' (SFCompactTextItalic.ttf) italic normal 400 normal>) = 11.05
+2021-11-15 23:34:50,770 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Mishafi Gold' (Mishafi Gold.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,770 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Verdana' (Verdana Italic.ttf) italic normal 400 normal>) = 4.6863636363636365
+2021-11-15 23:34:50,770 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Tai Viet' (NotoSansTaiViet-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,770 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Georgia' (Georgia Bold Italic.ttf) italic normal 700 normal>) = 11.335
+2021-11-15 23:34:50,770 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans New Tai Lue' (NotoSansNewTaiLue-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,770 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Arial Narrow' (Arial Narrow Bold.ttf) normal normal 700 condensed>) = 10.535
+2021-11-15 23:34:50,770 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'PT Serif' (PTSerif.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,770 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXIntegralsSm' (STIXIntSmBol.otf) normal normal 700 normal>) = 10.335
+2021-11-15 23:34:50,770 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Apple Braille' (Apple Braille Pinpoint 6 Dot.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,770 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXVariants' (STIXVarBol.otf) normal normal 700 normal>) = 10.335
+2021-11-15 23:34:50,771 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W2.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,771 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Chakma' (NotoSansChakma-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,771 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Galvji' (Galvji.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,771 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W0.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,771 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Lycian' (NotoSansLycian-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,771 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Palatino' (Palatino.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,771 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Ayuthaya' (Ayuthaya.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,771 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXGeneral' (STIXGeneralBol.otf) normal normal 700 normal>) = 10.335
+2021-11-15 23:34:50,771 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W3.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,771 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF NS Display Condensed' (SFNSDisplayCondensed-Regular.otf) normal normal regular condensed>) = 10.25
+2021-11-15 23:34:50,771 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'DIN Condensed' (DIN Condensed Bold.ttf) normal normal 700 condensed>) = 10.535
+2021-11-15 23:34:50,771 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'KufiStandardGK' (KufiStandardGK.ttc) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,771 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Didot' (Didot.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,771 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.Aqua Kana' (AquaKana.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,771 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Rockwell' (Rockwell.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,772 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF NS Text Condensed' (SFNSTextCondensed-Heavy.otf) normal normal heavy condensed>) = 10.629999999999999
+2021-11-15 23:34:50,772 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Shree Devanagari 714' (Shree714.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,772 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Athelas' (Athelas.ttc) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,772 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Tifinagh' (NotoSansTifinagh-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,772 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Phoenician' (NotoSansPhoenician-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,772 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Myanmar Sangam MN' (Myanmar Sangam MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,772 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Arial' (Arial Italic.ttf) italic normal 400 normal>) = 7.413636363636363
+2021-11-15 23:34:50,772 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Damascus' (Damascus.ttc) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,772 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Cham' (NotoSansCham-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,772 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Hanunoo' (NotoSansHanunoo-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,772 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Helvetica Neue' (HelveticaNeue.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,772 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Imperial Aramaic' (NotoSansImperialAramaic-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,772 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.Helvetica Neue DeskInterface' (HelveticaNeueDeskInterface.ttc) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,772 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Copperplate' (Copperplate.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,772 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.New York' (NewYorkItalic.ttf) italic normal 400 normal>) = 11.05
+2021-11-15 23:34:50,772 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Symbol' (Symbol.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,773 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'PingFang HK' (PingFang.ttc) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,773 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Gothic' (NotoSansGothic-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,773 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXIntegralsUpSm' (STIXIntUpSmBol.otf) normal normal 700 normal>) = 10.335
+2021-11-15 23:34:50,773 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Kohinoor Devanagari' (Kohinoor.ttc) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,773 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Krungthep' (Krungthep.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,773 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans NKo' (NotoSansNKo-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,773 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Myanmar MN' (Myanmar MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,773 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Georgia' (Georgia Italic.ttf) italic normal 400 normal>) = 11.05
+2021-11-15 23:34:50,773 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Comic Sans MS' (Comic Sans MS Bold.ttf) normal normal 700 normal>) = 10.335
+2021-11-15 23:34:50,773 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Kohinoor Telugu' (KohinoorTelugu.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,773 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Apple Chancery' (Apple Chancery.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,773 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Tai Le' (NotoSansTaiLe-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,773 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Songti SC' (Songti.ttc) normal normal black normal>) = 10.525
+2021-11-15 23:34:50,773 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymBol.otf) normal normal 700 normal>) = 10.335
+2021-11-15 23:34:50,773 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Sukhumvit Set' (SukhumvitSet.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,774 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF Compact Display' (SFCompactDisplay.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,774 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Khmer Sangam MN' (Khmer Sangam MN.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,774 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Silom' (Silom.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,774 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXGeneral' (STIXGeneralBolIta.otf) italic normal 700 normal>) = 11.335
+2021-11-15 23:34:50,774 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXIntegralsUp' (STIXIntUpReg.otf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,774 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Charter' (Charter.ttc) normal normal roman normal>) = 10.145
+2021-11-15 23:34:50,774 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'InaiMathi' (InaiMathi-MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,774 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Courier New' (Courier New Bold.ttf) normal normal 700 normal>) = 10.335
+2021-11-15 23:34:50,774 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXVariants' (STIXVar.otf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,774 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Bangla Sangam MN' (Bangla Sangam MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,774 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF NS Text Condensed' (SFNSTextCondensed-Light.otf) normal normal light condensed>) = 10.44
+2021-11-15 23:34:50,774 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.LastResort' (LastResort.otf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,774 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'PT Mono' (PTMono.ttc) normal normal 700 normal>) = 10.335
+2021-11-15 23:34:50,774 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF NS Display Condensed' (SFNSDisplayCondensed-Black.otf) normal normal black condensed>) = 10.725
+2021-11-15 23:34:50,774 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF NS Display Condensed' (SFNSDisplayCondensed-Semibold.otf) normal normal semibold condensed>) = 10.44
+2021-11-15 23:34:50,775 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Carian' (NotoSansCarian-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,775 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Geeza Pro' (GeezaPro.ttc) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,775 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Nadeem' (Nadeem.ttc) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,775 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Hiragino Sans GB' (Hiragino Sans GB.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,775 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Tahoma' (Tahoma Bold.ttf) normal normal 700 normal>) = 10.335
+2021-11-15 23:34:50,775 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Runic' (NotoSansRunic-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,775 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Sinhala Sangam MN' (Sinhala Sangam MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,775 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Trebuchet MS' (Trebuchet MS Bold Italic.ttf) italic normal 700 normal>) = 11.335
+2021-11-15 23:34:50,775 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Ugaritic' (NotoSansUgaritic-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,775 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Devanagari Sangam MN' (Devanagari Sangam MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,775 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Bamum' (NotoSansBamum-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,775 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXIntegralsD' (STIXIntDBol.otf) normal normal 700 normal>) = 10.335
+2021-11-15 23:34:50,775 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noteworthy' (Noteworthy.ttc) normal normal light normal>) = 10.24
+2021-11-15 23:34:50,775 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Bodoni 72 Smallcaps' (Bodoni 72 Smallcaps Book.ttf) normal normal book normal>) = 10.05
+2021-11-15 23:34:50,775 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Thaana' (NotoSansThaana-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,775 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Microsoft Sans Serif' (Microsoft Sans Serif.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,776 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Hiragino Maru Gothic Pro' (ヒラギノ丸ゴ ProN W4.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,776 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXIntegralsSm' (STIXIntSmReg.otf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,776 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Linear B' (NotoSansLinearB-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,776 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Heiti TC' (STHeiti Light.ttc) normal normal light normal>) = 10.24
+2021-11-15 23:34:50,776 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Optima' (Optima.ttc) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,776 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Apple Braille' (Apple Braille Outline 6 Dot.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,776 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Euphemia UCAS' (EuphemiaCAS.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,776 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Gujarati MT' (GujaratiMT.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,776 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.Arabic UI Text' (ArabicUIText.ttc) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,776 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBol.otf) normal normal 700 normal>) = 10.335
+2021-11-15 23:34:50,776 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Samaritan' (NotoSansSamaritan-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,776 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Verdana' (Verdana Bold.ttf) normal normal 700 normal>) = 3.9713636363636367
+2021-11-15 23:34:50,776 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Wingdings' (Wingdings.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,776 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Tamil Sangam MN' (Tamil Sangam MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,776 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Seravek' (Seravek.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,777 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Zapfino' (Zapfino.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,777 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'DecoType Naskh' (DecoTypeNaskh.ttc) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,777 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXIntegralsUpSm' (STIXIntUpSmReg.otf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,777 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF NS Display Condensed' (SFNSDisplayCondensed-Bold.otf) normal normal bold condensed>) = 10.535
+2021-11-15 23:34:50,777 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Inscriptional Pahlavi' (NotoSansInscriptionalPahlavi-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,777 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Baskerville' (Baskerville.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,777 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Cochin' (Cochin.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,777 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Raanana' (Raanana.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,777 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF NS Text Condensed' (SFNSTextCondensed-Bold.otf) normal normal bold condensed>) = 10.535
+2021-11-15 23:34:50,777 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymReg.otf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,777 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Apple Braille' (Apple Braille Outline 8 Dot.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,777 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Malayalam MN' (Malayalam MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,777 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Beirut' (Beirut.ttc) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,777 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF NS Display Condensed' (SFNSDisplayCondensed-Medium.otf) normal normal medium condensed>) = 10.344999999999999
+2021-11-15 23:34:50,777 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Lydian' (NotoSansLydian-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,777 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Chalkboard SE' (ChalkboardSE.ttc) normal normal light normal>) = 10.24
+2021-11-15 23:34:50,778 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Georgia' (Georgia.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,778 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Al Nile' (Al Nile.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,778 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Lucida Grande' (LucidaGrande.ttc) normal normal 400 normal>) = 2.777272727272727
+2021-11-15 23:34:50,778 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Ogham' (NotoSansOgham-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,778 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXNonUnicode' (STIXNonUniIta.otf) italic normal 400 normal>) = 11.05
+2021-11-15 23:34:50,778 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Glagolitic' (NotoSansGlagolitic-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,778 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Arial Unicode MS' (Arial Unicode.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,778 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Menlo' (Menlo.ttc) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,778 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'PT Serif Caption' (PTSerifCaption.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,778 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Arial Hebrew' (ArialHB.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,778 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF NS Mono' (SFNSMono.ttf) normal normal light normal>) = 10.24
+2021-11-15 23:34:50,778 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Avestan' (NotoSansAvestan-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,778 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Arial' (Arial.ttf) normal normal 400 normal>) = 6.413636363636363
+2021-11-15 23:34:50,778 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Apple Symbols' (Apple Symbols.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,778 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Armenian' (NotoSansArmenian.ttc) normal normal black normal>) = 10.525
+2021-11-15 23:34:50,779 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Corsiva Hebrew' (Corsiva.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,779 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Farah' (Farah.ttc) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,779 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Futura' (Futura.ttc) normal normal medium normal>) = 10.145
+2021-11-15 23:34:50,779 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Kohinoor Bangla' (KohinoorBangla.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,779 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Arial Rounded MT Bold' (Arial Rounded Bold.ttf) normal normal bold normal>) = 10.335
+2021-11-15 23:34:50,779 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Lao Sangam MN' (Lao Sangam MN.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,779 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Kailasa' (Kailasa.ttc) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,779 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Times New Roman' (Times New Roman.ttf) normal normal roman normal>) = 10.145
+2021-11-15 23:34:50,779 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF NS Text Condensed' (SFNSTextCondensed-Medium.otf) normal normal medium condensed>) = 10.344999999999999
+2021-11-15 23:34:50,779 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Impact' (Impact.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,779 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF NS Display Condensed' (SFNSDisplayCondensed-Light.otf) normal normal light condensed>) = 10.44
+2021-11-15 23:34:50,779 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Apple SD Gothic Neo' (AppleSDGothicNeo.ttc) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,779 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Bodoni 72 Oldstyle' (Bodoni 72 OS.ttc) normal normal book normal>) = 10.05
+2021-11-15 23:34:50,779 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Avenir' (Avenir.ttc) normal normal book normal>) = 10.05
+2021-11-15 23:34:50,779 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Gurmukhi MN' (Gurmukhi MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,780 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Shavian' (NotoSansShavian-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,780 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Arial Unicode MS' (Arial Unicode.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,780 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Diwan Kufi' (Diwan Kufi.ttc) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,780 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'SignPainter' (SignPainter.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,780 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymBol.otf) normal normal 700 normal>) = 10.335
+2021-11-15 23:34:50,780 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Myanmar' (NotoSansMyanmar.ttc) normal normal black normal>) = 10.525
+2021-11-15 23:34:50,780 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Al Bayan' (AlBayan.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,780 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF Compact Text' (SFCompactText.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,780 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Osmanya' (NotoSansOsmanya-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,780 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXSizeFiveSym' (STIXSizFiveSymReg.otf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,780 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF NS Mono' (SFNSMonoItalic.ttf) italic normal light normal>) = 11.24
+2021-11-15 23:34:50,780 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Oriya Sangam MN' (Oriya Sangam MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,780 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'AppleMyungjo' (AppleMyungjo.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,780 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Kohinoor Gujarati' (KohinoorGujarati.ttc) normal normal bold normal>) = 10.335
+2021-11-15 23:34:50,780 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXIntegralsUp' (STIXIntUpBol.otf) normal normal 700 normal>) = 10.335
+2021-11-15 23:34:50,780 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Serif Myanmar' (NotoSerifMyanmar.ttc) normal normal black normal>) = 10.525
+2021-11-15 23:34:50,781 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Cypriot' (NotoSansCypriot-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,781 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Bangla MN' (Bangla MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,781 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Lao MN' (Lao MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,781 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Nastaliq Urdu' (NotoNastaliq.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,781 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymBol.otf) normal normal 700 normal>) = 10.335
+2021-11-15 23:34:50,781 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Farisi' (Farisi.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,781 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Times New Roman' (Times New Roman Bold Italic.ttf) italic normal 700 normal>) = 11.335
+2021-11-15 23:34:50,781 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Egyptian Hieroglyphs' (NotoSansEgyptianHieroglyphs-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,781 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Tagalog' (NotoSansTagalog-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,781 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXGeneral' (STIXGeneralItalic.otf) italic normal 400 normal>) = 11.05
+2021-11-15 23:34:50,781 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Courier New' (Courier New Bold Italic.ttf) italic normal 700 normal>) = 11.335
+2021-11-15 23:34:50,781 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'American Typewriter' (AmericanTypewriter.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,781 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Brahmi' (NotoSansBrahmi-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,781 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF NS Display Condensed' (SFNSDisplayCondensed-Heavy.otf) normal normal heavy condensed>) = 10.629999999999999
+2021-11-15 23:34:50,781 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Apple Braille' (Apple Braille Pinpoint 8 Dot.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,781 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Inscriptional Parthian' (NotoSansInscriptionalParthian-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,782 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Tamil MN' (Tamil MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,782 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Kokonor' (Kokonor.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,782 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Courier New' (Courier New Italic.ttf) italic normal 400 normal>) = 11.05
+2021-11-15 23:34:50,782 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Telugu MN' (Telugu MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,782 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Gujarati Sangam MN' (Gujarati Sangam MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,782 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Courier New' (Courier New.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,782 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Kannada MN' (Kannada MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,782 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W6.ttc) normal normal 700 normal>) = 10.335
+2021-11-15 23:34:50,782 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Plantagenet Cherokee' (PlantagenetCherokee.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,782 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Devanagari MT' (DevanagariMT.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,782 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'New Peninim MT' (NewPeninimMT.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,782 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Bradley Hand' (Bradley Hand Bold.ttf) normal normal bold normal>) = 10.335
+2021-11-15 23:34:50,782 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans PhagsPa' (NotoSansPhagsPa-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,782 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Sathu' (Sathu.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,782 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W7.ttc) normal normal 700 normal>) = 10.335
+2021-11-15 23:34:50,783 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXIntegralsUpD' (STIXIntUpDBol.otf) normal normal 700 normal>) = 10.335
+2021-11-15 23:34:50,783 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Sundanese' (NotoSansSundanese-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,783 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Meetei Mayek' (NotoSansMeeteiMayek-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,783 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Old South Arabian' (NotoSansOldSouthArabian-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,783 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Oriya' (NotoSansOriya.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,783 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Arial Narrow' (Arial Narrow Bold Italic.ttf) italic normal 700 condensed>) = 11.535
+2021-11-15 23:34:50,783 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W4.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,783 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Phosphate' (Phosphate.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,783 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Muna' (Muna.ttc) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,783 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Comic Sans MS' (Comic Sans MS.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,783 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Old Turkic' (NotoSansOldTurkic-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,783 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Gurmukhi Sangam MN' (Gurmukhi Sangam MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,783 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Lisu' (NotoSansLisu-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,783 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Hoefler Text' (Hoefler Text.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,783 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Arial' (Arial Bold.ttf) normal normal 700 normal>) = 6.698636363636363
+2021-11-15 23:34:50,783 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Arial Narrow' (Arial Narrow.ttf) normal normal 400 condensed>) = 10.25
+2021-11-15 23:34:50,784 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF NS Rounded' (SFNSRounded.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,784 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Lepcha' (NotoSansLepcha-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,784 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Cuneiform' (NotoSansCuneiform-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,784 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Yi' (NotoSansYi-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,784 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Skia' (Skia.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,784 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Iowan Old Style' (Iowan Old Style.ttc) normal normal roman normal>) = 10.145
+2021-11-15 23:34:50,784 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Batak' (NotoSansBatak-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,784 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Kannada' (NotoSansKannada.ttc) normal normal black normal>) = 10.525
+2021-11-15 23:34:50,784 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Kefa' (Kefa.ttc) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,784 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Vai' (NotoSansVai-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,784 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Old Persian' (NotoSansOldPersian-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,784 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Chalkduster' (Chalkduster.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,784 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Trattatello' (Trattatello.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,784 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Baghdad' (Baghdad.ttc) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,784 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Hoefler Text' (Hoefler Text Ornaments.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,784 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF NS Text Condensed' (SFNSTextCondensed-Regular.otf) normal normal regular condensed>) = 10.25
+2021-11-15 23:34:50,785 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Verdana' (Verdana Bold Italic.ttf) italic normal 700 normal>) = 4.971363636363637
+2021-11-15 23:34:50,785 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Javanese' (NotoSansJavanese-Regular.otf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,785 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymReg.otf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,785 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Avenir Next Condensed' (Avenir Next Condensed.ttc) normal normal 700 condensed>) = 10.535
+2021-11-15 23:34:50,785 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Thonburi' (Thonburi.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,785 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W8.ttc) normal normal 700 normal>) = 10.335
+2021-11-15 23:34:50,785 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF NS Display Condensed' (SFNSDisplayCondensed-Ultralight.otf) normal normal ultralight condensed>) = 10.535
+2021-11-15 23:34:50,785 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Tai Tham' (NotoSansTaiTham-Regular.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,785 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Arial Narrow' (Arial Narrow Italic.ttf) italic normal 400 condensed>) = 11.25
+2021-11-15 23:34:50,785 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Trebuchet MS' (Trebuchet MS.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,785 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Mongolian' (NotoSansMongolian-Regular.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,785 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Buginese' (NotoSansBuginese-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,785 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'AppleGothic' (AppleGothic.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,785 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Wingdings 3' (Wingdings 3.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,785 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.New York' (NewYork.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,786 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Kaithi' (NotoSansKaithi-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,786 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Times New Roman' (Times New Roman Italic.ttf) italic normal roman normal>) = 11.145
+2021-11-15 23:34:50,786 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Khmer MN' (Khmer MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,786 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Kannada Sangam MN' (Kannada Sangam MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,786 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.Arabic UI Display' (ArabicUIDisplay.ttc) normal normal black normal>) = 10.525
+2021-11-15 23:34:50,786 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Tagbanwa' (NotoSansTagbanwa-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,786 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'System Font' (SFNS.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,786 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Marion' (Marion.ttc) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,786 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Tahoma' (Tahoma.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,786 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Bodoni Ornaments' (Bodoni Ornaments.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,786 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Mandaic' (NotoSansMandaic-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,786 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Georgia' (Georgia Bold.ttf) normal normal 700 normal>) = 10.335
+2021-11-15 23:34:50,786 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Buhid' (NotoSansBuhid-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,786 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Gill Sans' (GillSans.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,786 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Chalkboard' (Chalkboard.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,786 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Wingdings 2' (Wingdings 2.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,787 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Serif Balinese' (NotoSerifBalinese-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,787 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Saurashtra' (NotoSansSaurashtra-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,787 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Papyrus' (Papyrus.ttc) normal normal 400 condensed>) = 10.25
+2021-11-15 23:34:50,787 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Superclarendon' (SuperClarendon.ttc) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,787 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBolIta.otf) italic normal 700 normal>) = 11.335
+2021-11-15 23:34:50,787 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font '.SF Compact Rounded' (SFCompactRounded.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,787 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Andale Mono' (Andale Mono.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,787 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Times New Roman' (Times New Roman Bold.ttf) normal normal 700 normal>) = 10.335
+2021-11-15 23:34:50,787 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymReg.otf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,787 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Malayalam Sangam MN' (Malayalam Sangam MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,787 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Marker Felt' (MarkerFelt.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,787 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Diwan Thuluth' (Diwan Thuluth.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,787 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Sana' (Sana.ttc) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,787 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Brush Script MT' (Brush Script.ttf) italic normal 400 normal>) = 11.05
+2021-11-15 23:34:50,787 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'ITF Devanagari' (ITFDevanagari.ttc) normal normal book normal>) = 10.05
+2021-11-15 23:34:50,787 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Telugu Sangam MN' (Telugu Sangam MN.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,788 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Zapf Dingbats' (ZapfDingbats.ttf) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,788 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Verdana' (Verdana.ttf) normal normal 400 normal>) = 3.6863636363636365
+2021-11-15 23:34:50,788 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Arial Black' (Arial Black.ttf) normal normal black normal>) = 10.525
+2021-11-15 23:34:50,788 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Old Italic' (NotoSansOldItalic-Regular.ttf) italic normal regular normal>) = 11.05
+2021-11-15 23:34:50,788 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXIntegralsD' (STIXIntDReg.otf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,788 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'PT Sans' (PTSans.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,788 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Bodoni 72' (Bodoni 72.ttc) normal normal book normal>) = 10.05
+2021-11-15 23:34:50,788 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Trebuchet MS' (Trebuchet MS Bold.ttf) normal normal 700 normal>) = 10.335
+2021-11-15 23:34:50,788 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Hiragino Sans' (ヒラギノ角ゴシック W5.ttc) normal normal 700 normal>) = 10.335
+2021-11-15 23:34:50,788 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Syriac' (NotoSansSyriac-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,788 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Snell Roundhand' (SnellRoundhand.ttc) normal normal 400 normal>) = 10.05
+2021-11-15 23:34:50,788 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Noto Sans Ol Chiki' (NotoSansOlChiki-Regular.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,788 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Mishafi' (Mishafi.ttf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,788 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymReg.otf) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,788 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Mukta Mahee' (MuktaMahee.ttc) normal normal regular normal>) = 10.05
+2021-11-15 23:34:50,788 - matplotlib.font_manager - MainThread -  DEBUG - findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/usr/local/Cellar/jupyterlab/2.1.5/libexec/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2021-11-16 00:06:08,074 - root - MainThread -  INFO - color	bg
+2021-11-16 00:06:08,075 - root - MainThread -  INFO - 4a3cb5aa	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,082 - root - MainThread -  INFO - 4a3cb5aa	find_optimal_angle	RUNTIME	0.0058939456939697266
+2021-11-16 00:06:08,082 - root - MainThread -  INFO - 4a3dd0ac	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,088 - root - MainThread -  INFO - 4a3dd0ac	find_optimal_angle	RUNTIME	0.005204916000366211
+2021-11-16 00:06:08,088 - root - MainThread -  INFO - color	uncapped_brood
+2021-11-16 00:06:08,088 - root - MainThread -  INFO - 4a3ecf8e	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,089 - root - MainThread -  INFO - 4a3ecf8e	find_optimal_angle	RUNTIME	0.0005939006805419922
+2021-11-16 00:06:08,089 - root - MainThread -  INFO - 4a3ef054	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,090 - root - MainThread -  INFO - 4a3ef054	find_optimal_angle	RUNTIME	0.0005970001220703125
+2021-11-16 00:06:08,091 - root - MainThread -  INFO - color	uncapped_brood_d
+2021-11-16 00:06:08,091 - root - MainThread -  INFO - 4a3f2fc4	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,091 - root - MainThread -  INFO - process_one	skipping uncapped_brood_d because coords is False
+2021-11-16 00:06:08,091 - root - MainThread -  INFO - color	capped_brood
+2021-11-16 00:06:08,091 - root - MainThread -  INFO - 4a3f3ac8	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,091 - root - MainThread -  INFO - process_one	skipping capped_brood because coords is False
+2021-11-16 00:06:08,091 - root - MainThread -  INFO - color	capped_brood_d
+2021-11-16 00:06:08,091 - root - MainThread -  INFO - 4a3f445a	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,091 - root - MainThread -  INFO - process_one	skipping capped_brood_d because coords is False
+2021-11-16 00:06:08,091 - root - MainThread -  INFO - color	nectar
+2021-11-16 00:06:08,091 - root - MainThread -  INFO - 4a3f4d88	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,092 - root - MainThread -  INFO - process_one	skipping nectar because coords is False
+2021-11-16 00:06:08,092 - root - MainThread -  INFO - color	nectar_d?
+2021-11-16 00:06:08,092 - root - MainThread -  INFO - 4a3f56ac	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,092 - root - MainThread -  INFO - process_one	skipping nectar_d? because coords is False
+2021-11-16 00:06:08,092 - root - MainThread -  INFO - color	honey
+2021-11-16 00:06:08,092 - root - MainThread -  INFO - 4a3f5fda	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,093 - root - MainThread -  INFO - 4a3f5fda	find_optimal_angle	RUNTIME	0.0007410049438476562
+2021-11-16 00:06:08,093 - root - MainThread -  INFO - 4a3f86cc	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,094 - root - MainThread -  INFO - 4a3f86cc	find_optimal_angle	RUNTIME	0.0006139278411865234
+2021-11-16 00:06:08,094 - root - MainThread -  INFO - color	honey_d?
+2021-11-16 00:06:08,094 - root - MainThread -  INFO - 4a3fc1fa	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,095 - root - MainThread -  INFO - process_one	skipping honey_d? because coords is False
+2021-11-16 00:06:08,095 - root - MainThread -  INFO - color	empty
+2021-11-16 00:06:08,095 - root - MainThread -  INFO - 4a3fccea	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,096 - root - MainThread -  INFO - 4a3fccea	find_optimal_angle	RUNTIME	0.0007128715515136719
+2021-11-16 00:06:08,096 - root - MainThread -  INFO - 4a3ff210	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,096 - root - MainThread -  INFO - 4a3ff210	find_optimal_angle	RUNTIME	0.0005919933319091797
+2021-11-16 00:06:08,097 - root - MainThread -  INFO - color	empty_d
+2021-11-16 00:06:08,097 - root - MainThread -  INFO - 4a402320	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,098 - root - MainThread -  INFO - 4a402320	find_optimal_angle	RUNTIME	0.0005900859832763672
+2021-11-16 00:06:08,098 - root - MainThread -  INFO - 4a4042f6	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,098 - root - MainThread -  INFO - 4a4042f6	find_optimal_angle	RUNTIME	0.0005881786346435547
+2021-11-16 00:06:08,099 - root - MainThread -  INFO - color	pollen
+2021-11-16 00:06:08,099 - root - MainThread -  INFO - 4a407352	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,100 - root - MainThread -  INFO - 4a407352	find_optimal_angle	RUNTIME	0.0005838871002197266
+2021-11-16 00:06:08,100 - root - MainThread -  INFO - 4a4092ce	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,100 - root - MainThread -  INFO - 4a4092ce	find_optimal_angle	RUNTIME	0.0005910396575927734
+2021-11-16 00:06:08,101 - root - MainThread -  INFO - color	pollen_d?
+2021-11-16 00:06:08,101 - root - MainThread -  INFO - 4a40c23a	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,101 - root - MainThread -  INFO - process_one	skipping pollen_d? because coords is False
+2021-11-16 00:06:08,102 - root - MainThread -  INFO - color	bg
+2021-11-16 00:06:08,103 - root - MainThread -  INFO - 4a40e1d4	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,110 - root - MainThread -  INFO - 4a40e1d4	find_optimal_angle	RUNTIME	0.006768226623535156
+2021-11-16 00:06:08,110 - root - MainThread -  INFO - 4a421a9a	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,116 - root - MainThread -  INFO - 4a421a9a	find_optimal_angle	RUNTIME	0.005447864532470703
+2021-11-16 00:06:08,116 - root - MainThread -  INFO - color	uncapped_brood
+2021-11-16 00:06:08,117 - root - MainThread -  INFO - 4a432016	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,117 - root - MainThread -  INFO - 4a432016	find_optimal_angle	RUNTIME	0.0006468296051025391
+2021-11-16 00:06:08,117 - root - MainThread -  INFO - 4a4342bc	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,118 - root - MainThread -  INFO - 4a4342bc	find_optimal_angle	RUNTIME	0.0006401538848876953
+2021-11-16 00:06:08,119 - root - MainThread -  INFO - color	uncapped_brood_d
+2021-11-16 00:06:08,119 - root - MainThread -  INFO - 4a437692	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,119 - root - MainThread -  INFO - process_one	skipping uncapped_brood_d because coords is False
+2021-11-16 00:06:08,119 - root - MainThread -  INFO - color	capped_brood
+2021-11-16 00:06:08,119 - root - MainThread -  INFO - 4a43818c	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,119 - root - MainThread -  INFO - process_one	skipping capped_brood because coords is False
+2021-11-16 00:06:08,119 - root - MainThread -  INFO - color	capped_brood_d
+2021-11-16 00:06:08,119 - root - MainThread -  INFO - 4a438aa6	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,119 - root - MainThread -  INFO - process_one	skipping capped_brood_d because coords is False
+2021-11-16 00:06:08,119 - root - MainThread -  INFO - color	nectar
+2021-11-16 00:06:08,119 - root - MainThread -  INFO - 4a43937a	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,120 - root - MainThread -  INFO - process_one	skipping nectar because coords is False
+2021-11-16 00:06:08,120 - root - MainThread -  INFO - color	nectar_d?
+2021-11-16 00:06:08,120 - root - MainThread -  INFO - 4a439c3a	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,120 - root - MainThread -  INFO - process_one	skipping nectar_d? because coords is False
+2021-11-16 00:06:08,120 - root - MainThread -  INFO - color	honey
+2021-11-16 00:06:08,120 - root - MainThread -  INFO - 4a43a4dc	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,121 - root - MainThread -  INFO - 4a43a4dc	find_optimal_angle	RUNTIME	0.0006470680236816406
+2021-11-16 00:06:08,121 - root - MainThread -  INFO - 4a43c606	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,121 - root - MainThread -  INFO - 4a43c606	find_optimal_angle	RUNTIME	0.0006518363952636719
+2021-11-16 00:06:08,122 - root - MainThread -  INFO - color	honey_d?
+2021-11-16 00:06:08,122 - root - MainThread -  INFO - 4a43f91e	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,122 - root - MainThread -  INFO - process_one	skipping honey_d? because coords is False
+2021-11-16 00:06:08,122 - root - MainThread -  INFO - color	empty
+2021-11-16 00:06:08,122 - root - MainThread -  INFO - 4a44026a	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,123 - root - MainThread -  INFO - 4a44026a	find_optimal_angle	RUNTIME	0.0006260871887207031
+2021-11-16 00:06:08,123 - root - MainThread -  INFO - 4a4422e0	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,124 - root - MainThread -  INFO - 4a4422e0	find_optimal_angle	RUNTIME	0.0006501674652099609
+2021-11-16 00:06:08,124 - root - MainThread -  INFO - color	empty_d
+2021-11-16 00:06:08,125 - root - MainThread -  INFO - 4a4457ce	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,125 - root - MainThread -  INFO - 4a4457ce	find_optimal_angle	RUNTIME	0.0007212162017822266
+2021-11-16 00:06:08,126 - root - MainThread -  INFO - 4a447d44	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,126 - root - MainThread -  INFO - 4a447d44	find_optimal_angle	RUNTIME	0.0006470680236816406
+2021-11-16 00:06:08,127 - root - MainThread -  INFO - color	pollen
+2021-11-16 00:06:08,127 - root - MainThread -  INFO - 4a44b5ac	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,128 - root - MainThread -  INFO - 4a44b5ac	find_optimal_angle	RUNTIME	0.0007181167602539062
+2021-11-16 00:06:08,128 - root - MainThread -  INFO - 4a44db54	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,129 - root - MainThread -  INFO - 4a44db54	find_optimal_angle	RUNTIME	0.0006470680236816406
+2021-11-16 00:06:08,129 - root - MainThread -  INFO - color	pollen_d?
+2021-11-16 00:06:08,129 - root - MainThread -  INFO - 4a451182	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,129 - root - MainThread -  INFO - process_one	skipping pollen_d? because coords is False
+2021-11-16 00:06:08,139 - root - MainThread -  INFO - color	bg
+2021-11-16 00:06:08,140 - root - MainThread -  INFO - 4a4693cc	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,145 - root - MainThread -  INFO - 4a4693cc	find_optimal_angle	RUNTIME	0.005506038665771484
+2021-11-16 00:06:08,146 - root - MainThread -  INFO - 4a478854	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,151 - root - MainThread -  INFO - 4a478854	find_optimal_angle	RUNTIME	0.005175113677978516
+2021-11-16 00:06:08,152 - root - MainThread -  INFO - color	uncapped_brood
+2021-11-16 00:06:08,152 - root - MainThread -  INFO - 4a487df4	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,152 - root - MainThread -  INFO - 4a487df4	find_optimal_angle	RUNTIME	0.0005738735198974609
+2021-11-16 00:06:08,153 - root - MainThread -  INFO - 4a489d3e	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,153 - root - MainThread -  INFO - 4a489d3e	find_optimal_angle	RUNTIME	0.0005676746368408203
+2021-11-16 00:06:08,154 - root - MainThread -  INFO - color	uncapped_brood_d
+2021-11-16 00:06:08,154 - root - MainThread -  INFO - 4a48ca8e	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,154 - root - MainThread -  INFO - process_one	skipping uncapped_brood_d because coords is False
+2021-11-16 00:06:08,154 - root - MainThread -  INFO - color	capped_brood
+2021-11-16 00:06:08,154 - root - MainThread -  INFO - 4a48d3b2	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,154 - root - MainThread -  INFO - process_one	skipping capped_brood because coords is False
+2021-11-16 00:06:08,154 - root - MainThread -  INFO - color	capped_brood_d
+2021-11-16 00:06:08,154 - root - MainThread -  INFO - 4a48dc54	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,154 - root - MainThread -  INFO - process_one	skipping capped_brood_d because coords is False
+2021-11-16 00:06:08,154 - root - MainThread -  INFO - color	nectar
+2021-11-16 00:06:08,154 - root - MainThread -  INFO - 4a48e4ce	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,154 - root - MainThread -  INFO - process_one	skipping nectar because coords is False
+2021-11-16 00:06:08,154 - root - MainThread -  INFO - color	nectar_d?
+2021-11-16 00:06:08,155 - root - MainThread -  INFO - 4a48ed2a	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,155 - root - MainThread -  INFO - process_one	skipping nectar_d? because coords is False
+2021-11-16 00:06:08,155 - root - MainThread -  INFO - color	honey
+2021-11-16 00:06:08,155 - root - MainThread -  INFO - 4a48f590	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,155 - root - MainThread -  INFO - 4a48f590	find_optimal_angle	RUNTIME	0.0005719661712646484
+2021-11-16 00:06:08,156 - root - MainThread -  INFO - 4a49137c	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,156 - root - MainThread -  INFO - 4a49137c	find_optimal_angle	RUNTIME	0.0005660057067871094
+2021-11-16 00:06:08,157 - root - MainThread -  INFO - color	honey_d?
+2021-11-16 00:06:08,157 - root - MainThread -  INFO - 4a49413a	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,157 - root - MainThread -  INFO - process_one	skipping honey_d? because coords is False
+2021-11-16 00:06:08,157 - root - MainThread -  INFO - color	empty
+2021-11-16 00:06:08,157 - root - MainThread -  INFO - 4a494a40	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,158 - root - MainThread -  INFO - 4a494a40	find_optimal_angle	RUNTIME	0.0005669593811035156
+2021-11-16 00:06:08,158 - root - MainThread -  INFO - 4a496822	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,158 - root - MainThread -  INFO - 4a496822	find_optimal_angle	RUNTIME	0.0005791187286376953
+2021-11-16 00:06:08,159 - root - MainThread -  INFO - color	empty_d
+2021-11-16 00:06:08,159 - root - MainThread -  INFO - 4a49969e	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,160 - root - MainThread -  INFO - 4a49969e	find_optimal_angle	RUNTIME	0.0005691051483154297
+2021-11-16 00:06:08,160 - root - MainThread -  INFO - 4a49b4da	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,160 - root - MainThread -  INFO - 4a49b4da	find_optimal_angle	RUNTIME	0.0005669593811035156
+2021-11-16 00:06:08,161 - root - MainThread -  INFO - color	pollen
+2021-11-16 00:06:08,161 - root - MainThread -  INFO - 4a49e252	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,161 - root - MainThread -  INFO - 4a49e252	find_optimal_angle	RUNTIME	0.0005669593811035156
+2021-11-16 00:06:08,162 - root - MainThread -  INFO - 4a4a0098	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,162 - root - MainThread -  INFO - 4a4a0098	find_optimal_angle	RUNTIME	0.0005681514739990234
+2021-11-16 00:06:08,163 - root - MainThread -  INFO - color	pollen_d?
+2021-11-16 00:06:08,163 - root - MainThread -  INFO - 4a4a2dfc	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,163 - root - MainThread -  INFO - process_one	skipping pollen_d? because coords is False
+2021-11-16 00:06:08,163 - root - MainThread -  INFO - color	bg
+2021-11-16 00:06:08,164 - root - MainThread -  INFO - 4a4a4f80	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,171 - root - MainThread -  INFO - 4a4a4f80	find_optimal_angle	RUNTIME	0.0061910152435302734
+2021-11-16 00:06:08,171 - root - MainThread -  INFO - 4a4b68c0	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,176 - root - MainThread -  INFO - 4a4b68c0	find_optimal_angle	RUNTIME	0.005069255828857422
+2021-11-16 00:06:08,177 - root - MainThread -  INFO - color	uncapped_brood
+2021-11-16 00:06:08,177 - root - MainThread -  INFO - 4a4c59b0	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,178 - root - MainThread -  INFO - 4a4c59b0	find_optimal_angle	RUNTIME	0.0005619525909423828
+2021-11-16 00:06:08,178 - root - MainThread -  INFO - 4a4c7738	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,178 - root - MainThread -  INFO - 4a4c7738	find_optimal_angle	RUNTIME	0.0005538463592529297
+2021-11-16 00:06:08,179 - root - MainThread -  INFO - color	uncapped_brood_d
+2021-11-16 00:06:08,179 - root - MainThread -  INFO - 4a4ca38e	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,179 - root - MainThread -  INFO - process_one	skipping uncapped_brood_d because coords is False
+2021-11-16 00:06:08,179 - root - MainThread -  INFO - color	capped_brood
+2021-11-16 00:06:08,179 - root - MainThread -  INFO - 4a4cab90	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,179 - root - MainThread -  INFO - process_one	skipping capped_brood because coords is False
+2021-11-16 00:06:08,179 - root - MainThread -  INFO - color	capped_brood_d
+2021-11-16 00:06:08,179 - root - MainThread -  INFO - 4a4cb32e	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,179 - root - MainThread -  INFO - process_one	skipping capped_brood_d because coords is False
+2021-11-16 00:06:08,179 - root - MainThread -  INFO - color	nectar
+2021-11-16 00:06:08,179 - root - MainThread -  INFO - 4a4cbaa4	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,179 - root - MainThread -  INFO - process_one	skipping nectar because coords is False
+2021-11-16 00:06:08,180 - root - MainThread -  INFO - color	nectar_d?
+2021-11-16 00:06:08,180 - root - MainThread -  INFO - 4a4cc1fc	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,180 - root - MainThread -  INFO - process_one	skipping nectar_d? because coords is False
+2021-11-16 00:06:08,180 - root - MainThread -  INFO - color	honey
+2021-11-16 00:06:08,180 - root - MainThread -  INFO - 4a4cc94a	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,180 - root - MainThread -  INFO - 4a4cc94a	find_optimal_angle	RUNTIME	0.0005559921264648438
+2021-11-16 00:06:08,181 - root - MainThread -  INFO - 4a4ce5b0	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,181 - root - MainThread -  INFO - 4a4ce5b0	find_optimal_angle	RUNTIME	0.0005538463592529297
+2021-11-16 00:06:08,182 - root - MainThread -  INFO - color	honey_d?
+2021-11-16 00:06:08,182 - root - MainThread -  INFO - 4a4d11c0	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,182 - root - MainThread -  INFO - process_one	skipping honey_d? because coords is False
+2021-11-16 00:06:08,182 - root - MainThread -  INFO - color	empty
+2021-11-16 00:06:08,182 - root - MainThread -  INFO - 4a4d19d6	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,182 - root - MainThread -  INFO - 4a4d19d6	find_optimal_angle	RUNTIME	0.0005550384521484375
+2021-11-16 00:06:08,183 - root - MainThread -  INFO - 4a4d366e	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,183 - root - MainThread -  INFO - 4a4d366e	find_optimal_angle	RUNTIME	0.000553131103515625
+2021-11-16 00:06:08,184 - root - MainThread -  INFO - color	empty_d
+2021-11-16 00:06:08,184 - root - MainThread -  INFO - 4a4d626a	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,184 - root - MainThread -  INFO - 4a4d626a	find_optimal_angle	RUNTIME	0.0005540847778320312
+2021-11-16 00:06:08,184 - root - MainThread -  INFO - 4a4d7f3e	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,185 - root - MainThread -  INFO - 4a4d7f3e	find_optimal_angle	RUNTIME	0.0005528926849365234
+2021-11-16 00:06:08,185 - root - MainThread -  INFO - color	pollen
+2021-11-16 00:06:08,186 - root - MainThread -  INFO - 4a4dab58	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,186 - root - MainThread -  INFO - 4a4dab58	find_optimal_angle	RUNTIME	0.0005519390106201172
+2021-11-16 00:06:08,186 - root - MainThread -  INFO - 4a4dc80e	find_optimal_angle	optimizing over range	2.0500000000000003
+2021-11-16 00:06:08,187 - root - MainThread -  INFO - 4a4dc80e	find_optimal_angle	RUNTIME	0.00054931640625
+2021-11-16 00:06:08,187 - root - MainThread -  INFO - color	pollen_d?
+2021-11-16 00:06:08,187 - root - MainThread -  INFO - 4a4df3ec	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,188 - root - MainThread -  INFO - process_one	skipping pollen_d? because coords is False
+2021-11-16 00:06:08,195 - root - MainThread -  INFO - color	bg
+2021-11-16 00:06:08,195 - root - MainThread -  INFO - 4a4f19c0	find_optimal_angle	optimizing over range	1.9000000000000001
+2021-11-16 00:06:08,197 - root - MainThread -  INFO - 4a4f19c0	find_optimal_angle	RUNTIME	0.0015423297882080078
+2021-11-16 00:06:08,197 - root - MainThread -  INFO - 4a4f6c40	find_optimal_angle	optimizing over range	1.9000000000000001
+2021-11-16 00:06:08,199 - root - MainThread -  INFO - 4a4f6c40	find_optimal_angle	RUNTIME	0.001374959945678711
+2021-11-16 00:06:08,199 - root - MainThread -  INFO - color	uncapped_brood
+2021-11-16 00:06:08,199 - root - MainThread -  INFO - 4a4fc276	find_optimal_angle	optimizing over range	1.9000000000000001
+2021-11-16 00:06:08,200 - root - MainThread -  INFO - 4a4fc276	find_optimal_angle	RUNTIME	0.00017189979553222656
+2021-11-16 00:06:08,200 - root - MainThread -  INFO - 4a4fd040	find_optimal_angle	optimizing over range	1.9000000000000001
+2021-11-16 00:06:08,200 - root - MainThread -  INFO - 4a4fd040	find_optimal_angle	RUNTIME	0.00017309188842773438
+2021-11-16 00:06:08,200 - root - MainThread -  INFO - color	uncapped_brood_d
+2021-11-16 00:06:08,200 - root - MainThread -  INFO - 4a4feada	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,200 - root - MainThread -  INFO - process_one	skipping uncapped_brood_d because coords is False
+2021-11-16 00:06:08,200 - root - MainThread -  INFO - color	capped_brood
+2021-11-16 00:06:08,201 - root - MainThread -  INFO - 4a4ff2c8	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,201 - root - MainThread -  INFO - process_one	skipping capped_brood because coords is False
+2021-11-16 00:06:08,201 - root - MainThread -  INFO - color	capped_brood_d
+2021-11-16 00:06:08,201 - root - MainThread -  INFO - 4a4ffa48	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,201 - root - MainThread -  INFO - process_one	skipping capped_brood_d because coords is False
+2021-11-16 00:06:08,201 - root - MainThread -  INFO - color	nectar
+2021-11-16 00:06:08,201 - root - MainThread -  INFO - 4a500196	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,201 - root - MainThread -  INFO - process_one	skipping nectar because coords is False
+2021-11-16 00:06:08,201 - root - MainThread -  INFO - color	nectar_d?
+2021-11-16 00:06:08,201 - root - MainThread -  INFO - 4a50090c	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,201 - root - MainThread -  INFO - process_one	skipping nectar_d? because coords is False
+2021-11-16 00:06:08,201 - root - MainThread -  INFO - color	honey
+2021-11-16 00:06:08,201 - root - MainThread -  INFO - 4a501046	find_optimal_angle	optimizing over range	1.9000000000000001
+2021-11-16 00:06:08,202 - root - MainThread -  INFO - 4a501046	find_optimal_angle	RUNTIME	0.00017380714416503906
+2021-11-16 00:06:08,202 - root - MainThread -  INFO - 4a501d8e	find_optimal_angle	optimizing over range	1.9000000000000001
+2021-11-16 00:06:08,202 - root - MainThread -  INFO - 4a501d8e	find_optimal_angle	RUNTIME	0.00017309188842773438
+2021-11-16 00:06:08,202 - root - MainThread -  INFO - color	honey_d?
+2021-11-16 00:06:08,202 - root - MainThread -  INFO - 4a503800	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,202 - root - MainThread -  INFO - process_one	skipping honey_d? because coords is False
+2021-11-16 00:06:08,202 - root - MainThread -  INFO - color	empty
+2021-11-16 00:06:08,203 - root - MainThread -  INFO - 4a503fda	find_optimal_angle	optimizing over range	1.9000000000000001
+2021-11-16 00:06:08,203 - root - MainThread -  INFO - 4a503fda	find_optimal_angle	RUNTIME	0.00017309188842773438
+2021-11-16 00:06:08,203 - root - MainThread -  INFO - 4a504d4a	find_optimal_angle	optimizing over range	1.9000000000000001
+2021-11-16 00:06:08,203 - root - MainThread -  INFO - 4a504d4a	find_optimal_angle	RUNTIME	0.00017309188842773438
+2021-11-16 00:06:08,203 - root - MainThread -  INFO - color	empty_d
+2021-11-16 00:06:08,204 - root - MainThread -  INFO - 4a5067ee	find_optimal_angle	optimizing over range	1.9000000000000001
+2021-11-16 00:06:08,204 - root - MainThread -  INFO - 4a5067ee	find_optimal_angle	RUNTIME	0.00017309188842773438
+2021-11-16 00:06:08,204 - root - MainThread -  INFO - 4a5075a4	find_optimal_angle	optimizing over range	1.9000000000000001
+2021-11-16 00:06:08,204 - root - MainThread -  INFO - 4a5075a4	find_optimal_angle	RUNTIME	0.00017499923706054688
+2021-11-16 00:06:08,204 - root - MainThread -  INFO - color	pollen
+2021-11-16 00:06:08,205 - root - MainThread -  INFO - 4a50905c	find_optimal_angle	optimizing over range	1.9000000000000001
+2021-11-16 00:06:08,205 - root - MainThread -  INFO - 4a50905c	find_optimal_angle	RUNTIME	0.00017189979553222656
+2021-11-16 00:06:08,205 - root - MainThread -  INFO - 4a509e26	find_optimal_angle	optimizing over range	1.9000000000000001
+2021-11-16 00:06:08,205 - root - MainThread -  INFO - 4a509e26	find_optimal_angle	RUNTIME	0.00017213821411132812
+2021-11-16 00:06:08,205 - root - MainThread -  INFO - color	pollen_d?
+2021-11-16 00:06:08,206 - root - MainThread -  INFO - 4a50b8a2	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,206 - root - MainThread -  INFO - process_one	skipping pollen_d? because coords is False
+2021-11-16 00:06:08,206 - root - MainThread -  INFO - color	bg
+2021-11-16 00:06:08,207 - root - MainThread -  INFO - 4a50d314	find_optimal_angle	optimizing over range	1.9000000000000001
+2021-11-16 00:06:08,209 - root - MainThread -  INFO - 4a50d314	find_optimal_angle	RUNTIME	0.001689910888671875
+2021-11-16 00:06:08,209 - root - MainThread -  INFO - 4a5135fc	find_optimal_angle	optimizing over range	1.9000000000000001
+2021-11-16 00:06:08,211 - root - MainThread -  INFO - 4a5135fc	find_optimal_angle	RUNTIME	0.0014338493347167969
+2021-11-16 00:06:08,211 - root - MainThread -  INFO - color	uncapped_brood
+2021-11-16 00:06:08,211 - root - MainThread -  INFO - 4a519024	find_optimal_angle	optimizing over range	1.9000000000000001
+2021-11-16 00:06:08,211 - root - MainThread -  INFO - 4a519024	find_optimal_angle	RUNTIME	0.00018286705017089844
+2021-11-16 00:06:08,211 - root - MainThread -  INFO - 4a519e70	find_optimal_angle	optimizing over range	1.9000000000000001
+2021-11-16 00:06:08,212 - root - MainThread -  INFO - 4a519e70	find_optimal_angle	RUNTIME	0.00018310546875
+2021-11-16 00:06:08,212 - root - MainThread -  INFO - color	uncapped_brood_d
+2021-11-16 00:06:08,212 - root - MainThread -  INFO - 4a51baea	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,212 - root - MainThread -  INFO - process_one	skipping uncapped_brood_d because coords is False
+2021-11-16 00:06:08,212 - root - MainThread -  INFO - color	capped_brood
+2021-11-16 00:06:08,212 - root - MainThread -  INFO - 4a51c2ce	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,212 - root - MainThread -  INFO - process_one	skipping capped_brood because coords is False
+2021-11-16 00:06:08,213 - root - MainThread -  INFO - color	capped_brood_d
+2021-11-16 00:06:08,213 - root - MainThread -  INFO - 4a51ca4e	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,213 - root - MainThread -  INFO - process_one	skipping capped_brood_d because coords is False
+2021-11-16 00:06:08,213 - root - MainThread -  INFO - color	nectar
+2021-11-16 00:06:08,213 - root - MainThread -  INFO - 4a51d1b0	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,213 - root - MainThread -  INFO - process_one	skipping nectar because coords is False
+2021-11-16 00:06:08,213 - root - MainThread -  INFO - color	nectar_d?
+2021-11-16 00:06:08,213 - root - MainThread -  INFO - 4a51d8d6	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,213 - root - MainThread -  INFO - process_one	skipping nectar_d? because coords is False
+2021-11-16 00:06:08,213 - root - MainThread -  INFO - color	honey
+2021-11-16 00:06:08,213 - root - MainThread -  INFO - 4a51dffc	find_optimal_angle	optimizing over range	1.9000000000000001
+2021-11-16 00:06:08,213 - root - MainThread -  INFO - 4a51dffc	find_optimal_angle	RUNTIME	0.0001857280731201172
+2021-11-16 00:06:08,214 - root - MainThread -  INFO - 4a51eda8	find_optimal_angle	optimizing over range	1.9000000000000001
+2021-11-16 00:06:08,214 - root - MainThread -  INFO - 4a51eda8	find_optimal_angle	RUNTIME	0.00018310546875
+2021-11-16 00:06:08,214 - root - MainThread -  INFO - color	honey_d?
+2021-11-16 00:06:08,214 - root - MainThread -  INFO - 4a5209e6	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,214 - root - MainThread -  INFO - process_one	skipping honey_d? because coords is False
+2021-11-16 00:06:08,214 - root - MainThread -  INFO - color	empty
+2021-11-16 00:06:08,214 - root - MainThread -  INFO - 4a5211de	find_optimal_angle	optimizing over range	1.9000000000000001
+2021-11-16 00:06:08,215 - root - MainThread -  INFO - 4a5211de	find_optimal_angle	RUNTIME	0.00017189979553222656
+2021-11-16 00:06:08,215 - root - MainThread -  INFO - 4a521eb8	find_optimal_angle	optimizing over range	1.9000000000000001
+2021-11-16 00:06:08,215 - root - MainThread -  INFO - 4a521eb8	find_optimal_angle	RUNTIME	0.00017118453979492188
+2021-11-16 00:06:08,215 - root - MainThread -  INFO - color	empty_d
+2021-11-16 00:06:08,215 - root - MainThread -  INFO - 4a5238f8	find_optimal_angle	optimizing over range	1.9000000000000001
+2021-11-16 00:06:08,216 - root - MainThread -  INFO - 4a5238f8	find_optimal_angle	RUNTIME	0.0001709461212158203
+2021-11-16 00:06:08,216 - root - MainThread -  INFO - 4a524604	find_optimal_angle	optimizing over range	1.9000000000000001
+2021-11-16 00:06:08,216 - root - MainThread -  INFO - 4a524604	find_optimal_angle	RUNTIME	0.0001709461212158203
+2021-11-16 00:06:08,216 - root - MainThread -  INFO - color	pollen
+2021-11-16 00:06:08,216 - root - MainThread -  INFO - 4a526076	find_optimal_angle	optimizing over range	1.9000000000000001
+2021-11-16 00:06:08,217 - root - MainThread -  INFO - 4a526076	find_optimal_angle	RUNTIME	0.00017189979553222656
+2021-11-16 00:06:08,217 - root - MainThread -  INFO - 4a526daa	find_optimal_angle	optimizing over range	1.9000000000000001
+2021-11-16 00:06:08,217 - root - MainThread -  INFO - 4a526daa	find_optimal_angle	RUNTIME	0.00016999244689941406
+2021-11-16 00:06:08,217 - root - MainThread -  INFO - color	pollen_d?
+2021-11-16 00:06:08,217 - root - MainThread -  INFO - 4a5287ea	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,218 - root - MainThread -  INFO - process_one	skipping pollen_d? because coords is False
+2021-11-16 00:06:08,224 - root - MainThread -  INFO - color	bg
+2021-11-16 00:06:08,225 - root - MainThread -  INFO - 4a5395fe	find_optimal_angle	optimizing over range	4.2
+2021-11-16 00:06:08,241 - root - MainThread -  INFO - 4a5395fe	find_optimal_angle	RUNTIME	0.016386032104492188
+2021-11-16 00:06:08,242 - root - MainThread -  INFO - 4a563732	find_optimal_angle	optimizing over range	4.2
+2021-11-16 00:06:08,257 - root - MainThread -  INFO - 4a563732	find_optimal_angle	RUNTIME	0.01473093032836914
+2021-11-16 00:06:08,258 - root - MainThread -  INFO - color	uncapped_brood
+2021-11-16 00:06:08,258 - root - MainThread -  INFO - 4a58af44	find_optimal_angle	optimizing over range	4.2
+2021-11-16 00:06:08,259 - root - MainThread -  INFO - 4a58af44	find_optimal_angle	RUNTIME	0.0013909339904785156
+2021-11-16 00:06:08,259 - root - MainThread -  INFO - 4a58ed88	find_optimal_angle	optimizing over range	4.2
+2021-11-16 00:06:08,261 - root - MainThread -  INFO - 4a58ed88	find_optimal_angle	RUNTIME	0.001383066177368164
+2021-11-16 00:06:08,261 - root - MainThread -  INFO - color	uncapped_brood_d
+2021-11-16 00:06:08,262 - root - MainThread -  INFO - 4a5941d4	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,262 - root - MainThread -  INFO - process_one	skipping uncapped_brood_d because coords is False
+2021-11-16 00:06:08,262 - root - MainThread -  INFO - color	capped_brood
+2021-11-16 00:06:08,262 - root - MainThread -  INFO - 4a594a12	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,262 - root - MainThread -  INFO - process_one	skipping capped_brood because coords is False
+2021-11-16 00:06:08,262 - root - MainThread -  INFO - color	capped_brood_d
+2021-11-16 00:06:08,262 - root - MainThread -  INFO - 4a5951ce	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,262 - root - MainThread -  INFO - process_one	skipping capped_brood_d because coords is False
+2021-11-16 00:06:08,262 - root - MainThread -  INFO - color	nectar
+2021-11-16 00:06:08,262 - root - MainThread -  INFO - 4a595958	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,262 - root - MainThread -  INFO - process_one	skipping nectar because coords is False
+2021-11-16 00:06:08,262 - root - MainThread -  INFO - color	nectar_d?
+2021-11-16 00:06:08,262 - root - MainThread -  INFO - 4a5960d8	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,262 - root - MainThread -  INFO - process_one	skipping nectar_d? because coords is False
+2021-11-16 00:06:08,262 - root - MainThread -  INFO - color	honey
+2021-11-16 00:06:08,263 - root - MainThread -  INFO - 4a59684e	find_optimal_angle	optimizing over range	4.2
+2021-11-16 00:06:08,264 - root - MainThread -  INFO - 4a59684e	find_optimal_angle	RUNTIME	0.0013959407806396484
+2021-11-16 00:06:08,264 - root - MainThread -  INFO - 4a59a5ca	find_optimal_angle	optimizing over range	4.2
+2021-11-16 00:06:08,266 - root - MainThread -  INFO - 4a59a5ca	find_optimal_angle	RUNTIME	0.0013880729675292969
+2021-11-16 00:06:08,266 - root - MainThread -  INFO - color	honey_d?
+2021-11-16 00:06:08,266 - root - MainThread -  INFO - 4a59fa16	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,266 - root - MainThread -  INFO - process_one	skipping honey_d? because coords is False
+2021-11-16 00:06:08,266 - root - MainThread -  INFO - color	empty
+2021-11-16 00:06:08,266 - root - MainThread -  INFO - 4a5a0236	find_optimal_angle	optimizing over range	4.2
+2021-11-16 00:06:08,268 - root - MainThread -  INFO - 4a5a0236	find_optimal_angle	RUNTIME	0.0013918876647949219
+2021-11-16 00:06:08,268 - root - MainThread -  INFO - 4a5a3fb2	find_optimal_angle	optimizing over range	4.2
+2021-11-16 00:06:08,270 - root - MainThread -  INFO - 4a5a3fb2	find_optimal_angle	RUNTIME	0.0013821125030517578
+2021-11-16 00:06:08,270 - root - MainThread -  INFO - color	empty_d
+2021-11-16 00:06:08,270 - root - MainThread -  INFO - 4a5a93f4	find_optimal_angle	optimizing over range	4.2
+2021-11-16 00:06:08,272 - root - MainThread -  INFO - 4a5a93f4	find_optimal_angle	RUNTIME	0.001390695571899414
+2021-11-16 00:06:08,272 - root - MainThread -  INFO - 4a5ad1c0	find_optimal_angle	optimizing over range	4.2
+2021-11-16 00:06:08,273 - root - MainThread -  INFO - 4a5ad1c0	find_optimal_angle	RUNTIME	0.001390218734741211
+2021-11-16 00:06:08,274 - root - MainThread -  INFO - color	pollen
+2021-11-16 00:06:08,274 - root - MainThread -  INFO - 4a5b29a4	find_optimal_angle	optimizing over range	4.2
+2021-11-16 00:06:08,276 - root - MainThread -  INFO - 4a5b29a4	find_optimal_angle	RUNTIME	0.0017619132995605469
+2021-11-16 00:06:08,276 - root - MainThread -  INFO - 4a5b7ae4	find_optimal_angle	optimizing over range	4.2
+2021-11-16 00:06:08,278 - root - MainThread -  INFO - 4a5b7ae4	find_optimal_angle	RUNTIME	0.0014789104461669922
+2021-11-16 00:06:08,279 - root - MainThread -  INFO - color	pollen_d?
+2021-11-16 00:06:08,279 - root - MainThread -  INFO - 4a5bde58	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,279 - root - MainThread -  INFO - process_one	skipping pollen_d? because coords is False
+2021-11-16 00:06:08,279 - root - MainThread -  INFO - color	bg
+2021-11-16 00:06:08,280 - root - MainThread -  INFO - 4a5bfa6e	find_optimal_angle	optimizing over range	4.2
+2021-11-16 00:06:08,300 - root - MainThread -  INFO - 4a5bfa6e	find_optimal_angle	RUNTIME	0.01940298080444336
+2021-11-16 00:06:08,301 - root - MainThread -  INFO - 4a5f2f2c	find_optimal_angle	optimizing over range	4.2
+2021-11-16 00:06:08,318 - root - MainThread -  INFO - 4a5f2f2c	find_optimal_angle	RUNTIME	0.017211198806762695
+2021-11-16 00:06:08,319 - root - MainThread -  INFO - color	uncapped_brood
+2021-11-16 00:06:08,320 - root - MainThread -  INFO - 4a621ad4	find_optimal_angle	optimizing over range	4.2
+2021-11-16 00:06:08,321 - root - MainThread -  INFO - 4a621ad4	find_optimal_angle	RUNTIME	0.0017783641815185547
+2021-11-16 00:06:08,322 - root - MainThread -  INFO - 4a6269bc	find_optimal_angle	optimizing over range	4.2
+2021-11-16 00:06:08,323 - root - MainThread -  INFO - 4a6269bc	find_optimal_angle	RUNTIME	0.0017430782318115234
+2021-11-16 00:06:08,324 - root - MainThread -  INFO - color	uncapped_brood_d
+2021-11-16 00:06:08,324 - root - MainThread -  INFO - 4a62d4a6	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,324 - root - MainThread -  INFO - process_one	skipping uncapped_brood_d because coords is False
+2021-11-16 00:06:08,324 - root - MainThread -  INFO - color	capped_brood
+2021-11-16 00:06:08,325 - root - MainThread -  INFO - 4a62de06	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,325 - root - MainThread -  INFO - process_one	skipping capped_brood because coords is False
+2021-11-16 00:06:08,325 - root - MainThread -  INFO - color	capped_brood_d
+2021-11-16 00:06:08,325 - root - MainThread -  INFO - 4a62e6e4	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,325 - root - MainThread -  INFO - process_one	skipping capped_brood_d because coords is False
+2021-11-16 00:06:08,325 - root - MainThread -  INFO - color	nectar
+2021-11-16 00:06:08,325 - root - MainThread -  INFO - 4a62ef90	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,325 - root - MainThread -  INFO - process_one	skipping nectar because coords is False
+2021-11-16 00:06:08,325 - root - MainThread -  INFO - color	nectar_d?
+2021-11-16 00:06:08,325 - root - MainThread -  INFO - 4a62f814	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,325 - root - MainThread -  INFO - process_one	skipping nectar_d? because coords is False
+2021-11-16 00:06:08,325 - root - MainThread -  INFO - color	honey
+2021-11-16 00:06:08,325 - root - MainThread -  INFO - 4a63014c	find_optimal_angle	optimizing over range	4.2
+2021-11-16 00:06:08,327 - root - MainThread -  INFO - 4a63014c	find_optimal_angle	RUNTIME	0.001756906509399414
+2021-11-16 00:06:08,327 - root - MainThread -  INFO - 4a634ddc	find_optimal_angle	optimizing over range	4.2
+2021-11-16 00:06:08,329 - root - MainThread -  INFO - 4a634ddc	find_optimal_angle	RUNTIME	0.0016558170318603516
+2021-11-16 00:06:08,330 - root - MainThread -  INFO - color	honey_d?
+2021-11-16 00:06:08,330 - root - MainThread -  INFO - 4a63b2f4	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,330 - root - MainThread -  INFO - process_one	skipping honey_d? because coords is False
+2021-11-16 00:06:08,330 - root - MainThread -  INFO - color	empty
+2021-11-16 00:06:08,330 - root - MainThread -  INFO - 4a63bb96	find_optimal_angle	optimizing over range	4.2
+2021-11-16 00:06:08,332 - root - MainThread -  INFO - 4a63bb96	find_optimal_angle	RUNTIME	0.0015478134155273438
+2021-11-16 00:06:08,332 - root - MainThread -  INFO - 4a63fff2	find_optimal_angle	optimizing over range	4.2
+2021-11-16 00:06:08,334 - root - MainThread -  INFO - 4a63fff2	find_optimal_angle	RUNTIME	0.0014910697937011719
+2021-11-16 00:06:08,334 - root - MainThread -  INFO - color	empty_d
+2021-11-16 00:06:08,334 - root - MainThread -  INFO - 4a645b00	find_optimal_angle	optimizing over range	4.2
+2021-11-16 00:06:08,336 - root - MainThread -  INFO - 4a645b00	find_optimal_angle	RUNTIME	0.0014770030975341797
+2021-11-16 00:06:08,336 - root - MainThread -  INFO - 4a649bec	find_optimal_angle	optimizing over range	4.2
+2021-11-16 00:06:08,337 - root - MainThread -  INFO - 4a649bec	find_optimal_angle	RUNTIME	0.0014736652374267578
+2021-11-16 00:06:08,338 - root - MainThread -  INFO - color	pollen
+2021-11-16 00:06:08,338 - root - MainThread -  INFO - 4a64f650	find_optimal_angle	optimizing over range	4.2
+2021-11-16 00:06:08,340 - root - MainThread -  INFO - 4a64f650	find_optimal_angle	RUNTIME	0.0014810562133789062
+2021-11-16 00:06:08,340 - root - MainThread -  INFO - 4a65376e	find_optimal_angle	optimizing over range	4.2
+2021-11-16 00:06:08,342 - root - MainThread -  INFO - 4a65376e	find_optimal_angle	RUNTIME	0.0017049312591552734
+2021-11-16 00:06:08,342 - root - MainThread -  INFO - color	pollen_d?
+2021-11-16 00:06:08,342 - root - MainThread -  INFO - 4a659ace	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,343 - root - MainThread -  INFO - process_one	skipping pollen_d? because coords is False
+2021-11-16 00:06:08,349 - root - MainThread -  INFO - color	bg
+2021-11-16 00:06:08,350 - root - MainThread -  INFO - 4a66a6b2	find_optimal_angle	optimizing over range	2.2
+2021-11-16 00:06:08,355 - root - MainThread -  INFO - 4a66a6b2	find_optimal_angle	RUNTIME	0.0049228668212890625
+2021-11-16 00:06:08,355 - root - MainThread -  INFO - 4a677e02	find_optimal_angle	optimizing over range	2.2
+2021-11-16 00:06:08,360 - root - MainThread -  INFO - 4a677e02	find_optimal_angle	RUNTIME	0.00483393669128418
+2021-11-16 00:06:08,360 - root - MainThread -  INFO - color	uncapped_brood
+2021-11-16 00:06:08,361 - root - MainThread -  INFO - 4a685d54	find_optimal_angle	optimizing over range	2.2
+2021-11-16 00:06:08,361 - root - MainThread -  INFO - 4a685d54	find_optimal_angle	RUNTIME	0.0005018711090087891
+2021-11-16 00:06:08,361 - root - MainThread -  INFO - 4a6877e4	find_optimal_angle	optimizing over range	2.2
+2021-11-16 00:06:08,362 - root - MainThread -  INFO - 4a6877e4	find_optimal_angle	RUNTIME	0.0004999637603759766
+2021-11-16 00:06:08,362 - root - MainThread -  INFO - color	uncapped_brood_d
+2021-11-16 00:06:08,362 - root - MainThread -  INFO - 4a689fee	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,362 - root - MainThread -  INFO - process_one	skipping uncapped_brood_d because coords is False
+2021-11-16 00:06:08,362 - root - MainThread -  INFO - color	capped_brood
+2021-11-16 00:06:08,362 - root - MainThread -  INFO - 4a68a782	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,363 - root - MainThread -  INFO - process_one	skipping capped_brood because coords is False
+2021-11-16 00:06:08,363 - root - MainThread -  INFO - color	capped_brood_d
+2021-11-16 00:06:08,363 - root - MainThread -  INFO - 4a68aeee	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,363 - root - MainThread -  INFO - process_one	skipping capped_brood_d because coords is False
+2021-11-16 00:06:08,363 - root - MainThread -  INFO - color	nectar
+2021-11-16 00:06:08,363 - root - MainThread -  INFO - 4a68b600	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,363 - root - MainThread -  INFO - process_one	skipping nectar because coords is False
+2021-11-16 00:06:08,363 - root - MainThread -  INFO - color	nectar_d?
+2021-11-16 00:06:08,363 - root - MainThread -  INFO - 4a68bd12	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,363 - root - MainThread -  INFO - process_one	skipping nectar_d? because coords is False
+2021-11-16 00:06:08,363 - root - MainThread -  INFO - color	honey
+2021-11-16 00:06:08,363 - root - MainThread -  INFO - 4a68c3fc	find_optimal_angle	optimizing over range	2.2
+2021-11-16 00:06:08,364 - root - MainThread -  INFO - 4a68c3fc	find_optimal_angle	RUNTIME	0.0005040168762207031
+2021-11-16 00:06:08,364 - root - MainThread -  INFO - 4a68de00	find_optimal_angle	optimizing over range	2.2
+2021-11-16 00:06:08,364 - root - MainThread -  INFO - 4a68de00	find_optimal_angle	RUNTIME	0.0005009174346923828
+2021-11-16 00:06:08,365 - root - MainThread -  INFO - color	honey_d?
+2021-11-16 00:06:08,365 - root - MainThread -  INFO - 4a6905ec	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,365 - root - MainThread -  INFO - process_one	skipping honey_d? because coords is False
+2021-11-16 00:06:08,365 - root - MainThread -  INFO - color	empty
+2021-11-16 00:06:08,365 - root - MainThread -  INFO - 4a690d76	find_optimal_angle	optimizing over range	2.2
+2021-11-16 00:06:08,366 - root - MainThread -  INFO - 4a690d76	find_optimal_angle	RUNTIME	0.0005009174346923828
+2021-11-16 00:06:08,366 - root - MainThread -  INFO - 4a6927b6	find_optimal_angle	optimizing over range	2.2
+2021-11-16 00:06:08,366 - root - MainThread -  INFO - 4a6927b6	find_optimal_angle	RUNTIME	0.0005018711090087891
+2021-11-16 00:06:08,367 - root - MainThread -  INFO - color	empty_d
+2021-11-16 00:06:08,367 - root - MainThread -  INFO - 4a694fd4	find_optimal_angle	optimizing over range	2.2
+2021-11-16 00:06:08,367 - root - MainThread -  INFO - 4a694fd4	find_optimal_angle	RUNTIME	0.0005021095275878906
+2021-11-16 00:06:08,367 - root - MainThread -  INFO - 4a696a3c	find_optimal_angle	optimizing over range	2.2
+2021-11-16 00:06:08,368 - root - MainThread -  INFO - 4a696a3c	find_optimal_angle	RUNTIME	0.0005021095275878906
+2021-11-16 00:06:08,368 - root - MainThread -  INFO - color	pollen
+2021-11-16 00:06:08,368 - root - MainThread -  INFO - 4a69925a	find_optimal_angle	optimizing over range	2.2
+2021-11-16 00:06:08,369 - root - MainThread -  INFO - 4a69925a	find_optimal_angle	RUNTIME	0.0005021095275878906
+2021-11-16 00:06:08,369 - root - MainThread -  INFO - 4a69accc	find_optimal_angle	optimizing over range	2.2
+2021-11-16 00:06:08,370 - root - MainThread -  INFO - 4a69accc	find_optimal_angle	RUNTIME	0.0004999637603759766
+2021-11-16 00:06:08,370 - root - MainThread -  INFO - color	pollen_d?
+2021-11-16 00:06:08,370 - root - MainThread -  INFO - 4a69d508	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,370 - root - MainThread -  INFO - process_one	skipping pollen_d? because coords is False
+2021-11-16 00:06:08,371 - root - MainThread -  INFO - color	bg
+2021-11-16 00:06:08,371 - root - MainThread -  INFO - 4a69f236	find_optimal_angle	optimizing over range	2.2
+2021-11-16 00:06:08,377 - root - MainThread -  INFO - 4a69f236	find_optimal_angle	RUNTIME	0.005615711212158203
+2021-11-16 00:06:08,378 - root - MainThread -  INFO - 4a6aeac4	find_optimal_angle	optimizing over range	2.2
+2021-11-16 00:06:08,383 - root - MainThread -  INFO - 4a6aeac4	find_optimal_angle	RUNTIME	0.004805803298950195
+2021-11-16 00:06:08,383 - root - MainThread -  INFO - color	uncapped_brood
+2021-11-16 00:06:08,383 - root - MainThread -  INFO - 4a6bca2a	find_optimal_angle	optimizing over range	2.2
+2021-11-16 00:06:08,384 - root - MainThread -  INFO - 4a6bca2a	find_optimal_angle	RUNTIME	0.0005397796630859375
+2021-11-16 00:06:08,384 - root - MainThread -  INFO - 4a6be62c	find_optimal_angle	optimizing over range	2.2
+2021-11-16 00:06:08,384 - root - MainThread -  INFO - 4a6be62c	find_optimal_angle	RUNTIME	0.0005388259887695312
+2021-11-16 00:06:08,385 - root - MainThread -  INFO - color	uncapped_brood_d
+2021-11-16 00:06:08,385 - root - MainThread -  INFO - 4a6c114c	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,385 - root - MainThread -  INFO - process_one	skipping uncapped_brood_d because coords is False
+2021-11-16 00:06:08,385 - root - MainThread -  INFO - color	capped_brood
+2021-11-16 00:06:08,385 - root - MainThread -  INFO - 4a6c1912	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,385 - root - MainThread -  INFO - process_one	skipping capped_brood because coords is False
+2021-11-16 00:06:08,385 - root - MainThread -  INFO - color	capped_brood_d
+2021-11-16 00:06:08,385 - root - MainThread -  INFO - 4a6c2038	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,385 - root - MainThread -  INFO - process_one	skipping capped_brood_d because coords is False
+2021-11-16 00:06:08,385 - root - MainThread -  INFO - color	nectar
+2021-11-16 00:06:08,385 - root - MainThread -  INFO - 4a6c2754	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,385 - root - MainThread -  INFO - process_one	skipping nectar because coords is False
+2021-11-16 00:06:08,385 - root - MainThread -  INFO - color	nectar_d?
+2021-11-16 00:06:08,386 - root - MainThread -  INFO - 4a6c2e48	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,386 - root - MainThread -  INFO - process_one	skipping nectar_d? because coords is False
+2021-11-16 00:06:08,386 - root - MainThread -  INFO - color	honey
+2021-11-16 00:06:08,386 - root - MainThread -  INFO - 4a6c3528	find_optimal_angle	optimizing over range	2.2
+2021-11-16 00:06:08,386 - root - MainThread -  INFO - 4a6c3528	find_optimal_angle	RUNTIME	0.0005431175231933594
+2021-11-16 00:06:08,386 - root - MainThread -  INFO - 4a6c50b2	find_optimal_angle	optimizing over range	2.2
+2021-11-16 00:06:08,387 - root - MainThread -  INFO - 4a6c50b2	find_optimal_angle	RUNTIME	0.0005362033843994141
+2021-11-16 00:06:08,387 - root - MainThread -  INFO - color	honey_d?
+2021-11-16 00:06:08,388 - root - MainThread -  INFO - 4a6c7b8c	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,388 - root - MainThread -  INFO - process_one	skipping honey_d? because coords is False
+2021-11-16 00:06:08,388 - root - MainThread -  INFO - color	empty
+2021-11-16 00:06:08,388 - root - MainThread -  INFO - 4a6c8320	find_optimal_angle	optimizing over range	2.2
+2021-11-16 00:06:08,388 - root - MainThread -  INFO - 4a6c8320	find_optimal_angle	RUNTIME	0.0005409717559814453
+2021-11-16 00:06:08,388 - root - MainThread -  INFO - 4a6c9ec8	find_optimal_angle	optimizing over range	2.2
+2021-11-16 00:06:08,389 - root - MainThread -  INFO - 4a6c9ec8	find_optimal_angle	RUNTIME	0.0005388259887695312
+2021-11-16 00:06:08,389 - root - MainThread -  INFO - color	empty_d
+2021-11-16 00:06:08,390 - root - MainThread -  INFO - 4a6cc9e8	find_optimal_angle	optimizing over range	2.2
+2021-11-16 00:06:08,390 - root - MainThread -  INFO - 4a6cc9e8	find_optimal_angle	RUNTIME	0.0005400180816650391
+2021-11-16 00:06:08,390 - root - MainThread -  INFO - 4a6ce5cc	find_optimal_angle	optimizing over range	2.2
+2021-11-16 00:06:08,391 - root - MainThread -  INFO - 4a6ce5cc	find_optimal_angle	RUNTIME	0.0005679130554199219
+2021-11-16 00:06:08,392 - root - MainThread -  INFO - color	pollen
+2021-11-16 00:06:08,392 - root - MainThread -  INFO - 4a6d1f42	find_optimal_angle	optimizing over range	2.2
+2021-11-16 00:06:08,392 - root - MainThread -  INFO - 4a6d1f42	find_optimal_angle	RUNTIME	0.0005381107330322266
+2021-11-16 00:06:08,392 - root - MainThread -  INFO - 4a6d3b1c	find_optimal_angle	optimizing over range	2.2
+2021-11-16 00:06:08,393 - root - MainThread -  INFO - 4a6d3b1c	find_optimal_angle	RUNTIME	0.0005359649658203125
+2021-11-16 00:06:08,393 - root - MainThread -  INFO - color	pollen_d?
+2021-11-16 00:06:08,394 - root - MainThread -  INFO - 4a6d65f6	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,394 - root - MainThread -  INFO - process_one	skipping pollen_d? because coords is False
+2021-11-16 00:06:08,400 - root - MainThread -  INFO - color	bg
+2021-11-16 00:06:08,401 - root - MainThread -  INFO - 4a6e7108	find_optimal_angle	optimizing over range	4.4
+2021-11-16 00:06:08,418 - root - MainThread -  INFO - 4a6e7108	find_optimal_angle	RUNTIME	0.016622066497802734
+2021-11-16 00:06:08,419 - root - MainThread -  INFO - 4a71254c	find_optimal_angle	optimizing over range	4.4
+2021-11-16 00:06:08,435 - root - MainThread -  INFO - 4a71254c	find_optimal_angle	RUNTIME	0.015997886657714844
+2021-11-16 00:06:08,436 - root - MainThread -  INFO - color	uncapped_brood
+2021-11-16 00:06:08,436 - root - MainThread -  INFO - 4a73d936	find_optimal_angle	optimizing over range	4.4
+2021-11-16 00:06:08,437 - root - MainThread -  INFO - 4a73d936	find_optimal_angle	RUNTIME	0.001443624496459961
+2021-11-16 00:06:08,437 - root - MainThread -  INFO - 4a7419b4	find_optimal_angle	optimizing over range	4.4
+2021-11-16 00:06:08,439 - root - MainThread -  INFO - 4a7419b4	find_optimal_angle	RUNTIME	0.0014238357543945312
+2021-11-16 00:06:08,440 - root - MainThread -  INFO - color	uncapped_brood_d
+2021-11-16 00:06:08,440 - root - MainThread -  INFO - 4a747080	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,440 - root - MainThread -  INFO - process_one	skipping uncapped_brood_d because coords is False
+2021-11-16 00:06:08,440 - root - MainThread -  INFO - color	capped_brood
+2021-11-16 00:06:08,440 - root - MainThread -  INFO - 4a7478d2	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,440 - root - MainThread -  INFO - process_one	skipping capped_brood because coords is False
+2021-11-16 00:06:08,440 - root - MainThread -  INFO - color	capped_brood_d
+2021-11-16 00:06:08,440 - root - MainThread -  INFO - 4a7480c0	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,440 - root - MainThread -  INFO - process_one	skipping capped_brood_d because coords is False
+2021-11-16 00:06:08,440 - root - MainThread -  INFO - color	nectar
+2021-11-16 00:06:08,440 - root - MainThread -  INFO - 4a74887c	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,440 - root - MainThread -  INFO - process_one	skipping nectar because coords is False
+2021-11-16 00:06:08,440 - root - MainThread -  INFO - color	nectar_d?
+2021-11-16 00:06:08,441 - root - MainThread -  INFO - 4a749024	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,441 - root - MainThread -  INFO - process_one	skipping nectar_d? because coords is False
+2021-11-16 00:06:08,441 - root - MainThread -  INFO - color	honey
+2021-11-16 00:06:08,441 - root - MainThread -  INFO - 4a7497c2	find_optimal_angle	optimizing over range	4.4
+2021-11-16 00:06:08,442 - root - MainThread -  INFO - 4a7497c2	find_optimal_angle	RUNTIME	0.0015408992767333984
+2021-11-16 00:06:08,443 - root - MainThread -  INFO - 4a74ddb8	find_optimal_angle	optimizing over range	4.4
+2021-11-16 00:06:08,444 - root - MainThread -  INFO - 4a74ddb8	find_optimal_angle	RUNTIME	0.0016770362854003906
+2021-11-16 00:06:08,445 - root - MainThread -  INFO - color	honey_d?
+2021-11-16 00:06:08,445 - root - MainThread -  INFO - 4a75403c	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,445 - root - MainThread -  INFO - process_one	skipping honey_d? because coords is False
+2021-11-16 00:06:08,445 - root - MainThread -  INFO - color	empty
+2021-11-16 00:06:08,445 - root - MainThread -  INFO - 4a75488e	find_optimal_angle	optimizing over range	4.4
+2021-11-16 00:06:08,447 - root - MainThread -  INFO - 4a75488e	find_optimal_angle	RUNTIME	0.0015461444854736328
+2021-11-16 00:06:08,447 - root - MainThread -  INFO - 4a758c40	find_optimal_angle	optimizing over range	4.4
+2021-11-16 00:06:08,448 - root - MainThread -  INFO - 4a758c40	find_optimal_angle	RUNTIME	0.0014209747314453125
+2021-11-16 00:06:08,449 - root - MainThread -  INFO - color	empty_d
+2021-11-16 00:06:08,449 - root - MainThread -  INFO - 4a75e2c6	find_optimal_angle	optimizing over range	4.4
+2021-11-16 00:06:08,451 - root - MainThread -  INFO - 4a75e2c6	find_optimal_angle	RUNTIME	0.0014820098876953125
+2021-11-16 00:06:08,451 - root - MainThread -  INFO - 4a762416	find_optimal_angle	optimizing over range	4.4
+2021-11-16 00:06:08,452 - root - MainThread -  INFO - 4a762416	find_optimal_angle	RUNTIME	0.0014221668243408203
+2021-11-16 00:06:08,453 - root - MainThread -  INFO - color	pollen
+2021-11-16 00:06:08,453 - root - MainThread -  INFO - 4a767a92	find_optimal_angle	optimizing over range	4.4
+2021-11-16 00:06:08,455 - root - MainThread -  INFO - 4a767a92	find_optimal_angle	RUNTIME	0.001428842544555664
+2021-11-16 00:06:08,455 - root - MainThread -  INFO - 4a76b9ee	find_optimal_angle	optimizing over range	4.4
+2021-11-16 00:06:08,456 - root - MainThread -  INFO - 4a76b9ee	find_optimal_angle	RUNTIME	0.0014200210571289062
+2021-11-16 00:06:08,457 - root - MainThread -  INFO - color	pollen_d?
+2021-11-16 00:06:08,457 - root - MainThread -  INFO - 4a77102e	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,457 - root - MainThread -  INFO - process_one	skipping pollen_d? because coords is False
+2021-11-16 00:06:08,458 - root - MainThread -  INFO - color	bg
+2021-11-16 00:06:08,459 - root - MainThread -  INFO - 4a773c16	find_optimal_angle	optimizing over range	4.4
+2021-11-16 00:06:08,477 - root - MainThread -  INFO - 4a773c16	find_optimal_angle	RUNTIME	0.01766800880432129
+2021-11-16 00:06:08,478 - root - MainThread -  INFO - 4a7a20e8	find_optimal_angle	optimizing over range	4.4
+2021-11-16 00:06:08,495 - root - MainThread -  INFO - 4a7a20e8	find_optimal_angle	RUNTIME	0.017314910888671875
+2021-11-16 00:06:08,496 - root - MainThread -  INFO - color	uncapped_brood
+2021-11-16 00:06:08,496 - root - MainThread -  INFO - 4a7d0cea	find_optimal_angle	optimizing over range	4.4
+2021-11-16 00:06:08,498 - root - MainThread -  INFO - 4a7d0cea	find_optimal_angle	RUNTIME	0.00164794921875
+2021-11-16 00:06:08,498 - root - MainThread -  INFO - 4a7d5628	find_optimal_angle	optimizing over range	4.4
+2021-11-16 00:06:08,500 - root - MainThread -  INFO - 4a7d5628	find_optimal_angle	RUNTIME	0.0019428730010986328
+2021-11-16 00:06:08,501 - root - MainThread -  INFO - color	uncapped_brood_d
+2021-11-16 00:06:08,501 - root - MainThread -  INFO - 4a7dc61c	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,501 - root - MainThread -  INFO - process_one	skipping uncapped_brood_d because coords is False
+2021-11-16 00:06:08,501 - root - MainThread -  INFO - color	capped_brood
+2021-11-16 00:06:08,501 - root - MainThread -  INFO - 4a7dce8c	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,501 - root - MainThread -  INFO - process_one	skipping capped_brood because coords is False
+2021-11-16 00:06:08,501 - root - MainThread -  INFO - color	capped_brood_d
+2021-11-16 00:06:08,501 - root - MainThread -  INFO - 4a7dd666	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,501 - root - MainThread -  INFO - process_one	skipping capped_brood_d because coords is False
+2021-11-16 00:06:08,501 - root - MainThread -  INFO - color	nectar
+2021-11-16 00:06:08,502 - root - MainThread -  INFO - 4a7ddeea	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,502 - root - MainThread -  INFO - process_one	skipping nectar because coords is False
+2021-11-16 00:06:08,502 - root - MainThread -  INFO - color	nectar_d?
+2021-11-16 00:06:08,502 - root - MainThread -  INFO - 4a7de6c4	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,502 - root - MainThread -  INFO - process_one	skipping nectar_d? because coords is False
+2021-11-16 00:06:08,502 - root - MainThread -  INFO - color	honey
+2021-11-16 00:06:08,502 - root - MainThread -  INFO - 4a7dee8a	find_optimal_angle	optimizing over range	4.4
+2021-11-16 00:06:08,504 - root - MainThread -  INFO - 4a7dee8a	find_optimal_angle	RUNTIME	0.001667022705078125
+2021-11-16 00:06:08,504 - root - MainThread -  INFO - 4a7e3732	find_optimal_angle	optimizing over range	4.4
+2021-11-16 00:06:08,506 - root - MainThread -  INFO - 4a7e3732	find_optimal_angle	RUNTIME	0.0017189979553222656
+2021-11-16 00:06:08,506 - root - MainThread -  INFO - color	honey_d?
+2021-11-16 00:06:08,507 - root - MainThread -  INFO - 4a7ea474	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,507 - root - MainThread -  INFO - process_one	skipping honey_d? because coords is False
+2021-11-16 00:06:08,507 - root - MainThread -  INFO - color	empty
+2021-11-16 00:06:08,507 - root - MainThread -  INFO - 4a7eae60	find_optimal_angle	optimizing over range	4.4
+2021-11-16 00:06:08,509 - root - MainThread -  INFO - 4a7eae60	find_optimal_angle	RUNTIME	0.0019338130950927734
+2021-11-16 00:06:08,509 - root - MainThread -  INFO - 4a7f0324	find_optimal_angle	optimizing over range	4.4
+2021-11-16 00:06:08,511 - root - MainThread -  INFO - 4a7f0324	find_optimal_angle	RUNTIME	0.0018541812896728516
+2021-11-16 00:06:08,512 - root - MainThread -  INFO - color	empty_d
+2021-11-16 00:06:08,512 - root - MainThread -  INFO - 4a7f7598	find_optimal_angle	optimizing over range	4.4
+2021-11-16 00:06:08,514 - root - MainThread -  INFO - 4a7f7598	find_optimal_angle	RUNTIME	0.0018551349639892578
+2021-11-16 00:06:08,514 - root - MainThread -  INFO - 4a7fc796	find_optimal_angle	optimizing over range	4.4
+2021-11-16 00:06:08,516 - root - MainThread -  INFO - 4a7fc796	find_optimal_angle	RUNTIME	0.0017752647399902344
+2021-11-16 00:06:08,517 - root - MainThread -  INFO - color	pollen
+2021-11-16 00:06:08,517 - root - MainThread -  INFO - 4a80349c	find_optimal_angle	optimizing over range	4.4
+2021-11-16 00:06:08,519 - root - MainThread -  INFO - 4a80349c	find_optimal_angle	RUNTIME	0.0016698837280273438
+2021-11-16 00:06:08,519 - root - MainThread -  INFO - 4a807e7a	find_optimal_angle	optimizing over range	4.4
+2021-11-16 00:06:08,521 - root - MainThread -  INFO - 4a807e7a	find_optimal_angle	RUNTIME	0.0017206668853759766
+2021-11-16 00:06:08,521 - root - MainThread -  INFO - color	pollen_d?
+2021-11-16 00:06:08,521 - root - MainThread -  INFO - 4a80e66c	find_optimal_angle	zero sum picture
+2021-11-16 00:06:08,521 - root - MainThread -  INFO - process_one	skipping pollen_d? because coords is False
