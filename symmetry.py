@@ -9,12 +9,18 @@ from tqdm import tqdm
 from collections import namedtuple
 from time import time
 import uuid
+from scipy.stats import binom
+from functools import partial
 
 import logging 
 
 logging.basicConfig(filename='symmetry.log', 
                     level=logging.DEBUG, 
                     format='%(asctime)s - %(name)s - %(threadName)s -  %(levelname)s - %(message)s') 
+
+#===============
+#Symmetry scores
+#===============
 
 def symmetry(img):
     """
@@ -28,6 +34,7 @@ def symmetry(img):
     area = img.sum()
     chisq = img_xor.sum()/(area*area) if area!=0 else 0
     return chisq, area
+
 
 # def correl(img):
 #     area = img.sum()
@@ -48,6 +55,30 @@ def correl(img):
         return (1-np.abs(c)/area), area
     else:
         return 0,0
+
+def s(X):
+    total_matches = (X==X[:,::-1]).sum()
+    n_ = int(X.max())
+    V = X.copy()
+    V[V!=0] = n_+1
+    V[V==0] = 1
+    V[V!=1] = 0
+    zero_matches = np.bitwise_and(V,V[:,::-1]).sum()
+    return total_matches - zero_matches
+    
+def symmetry_stochastic(img,color_dict):
+    layers, n = cvfunc.img_to_layer_mask(img,color_dict)
+    A = np.array(layers).sum(axis=0)
+    M = np.bitwise_and(A,A[:,::-1]).sum()
+    P = binom(M,1/n)
+    E = M/n #Expectation value
+    S = sum(map(s,layers)) #Computed value
+    std = P.std()
+    return (2/(1+np.exp((S-E)/A.sum())/std/np.sqrt(2)))-1
+
+
+#===================================================
+
 
 def find_optimal_angle(img,sample,invert,box,l,ratio=0.05,theta=0,opt=symmetry,auto_crop=True):
     """
@@ -124,6 +155,7 @@ def process_one(img,search_ratio,color_dict=None,ncolor=None,angle=0,auto_crop=T
         white_ix = "bg"
         colors = color_dict
         im_reduced = img
+        ncolor = len(color_dict) - 1
         values = np.array(list(colors.values()))
         if values.max()>1 or issubclass(values.dtype.type,np.integer):
             values = values/255.
@@ -170,6 +202,8 @@ def process_one(img,search_ratio,color_dict=None,ncolor=None,angle=0,auto_crop=T
             params = find_optimal_angle(im_reduced,sample=[color],invert=False,box=box,l=l,ratio=search_ratio,theta=angle,opt=correl,auto_crop=auto_crop)
             xcor,fcor = np.array(params[0])
             coords = params[1]
+            
+            
             if coords:
                 x1,y1,x2,y2 = coords
                 im_reduced_ = im_reduced[x1:x2,y1:y2]
@@ -197,6 +231,7 @@ def process_one(img,search_ratio,color_dict=None,ncolor=None,angle=0,auto_crop=T
             
             params = find_optimal_angle(im_reduced,sample=full_colors,invert=False,box=box,l=l,ratio=search_ratio,theta=angle,opt=correl,auto_crop=auto_crop)
             xcor,fcor = np.array(params[0])
+            
             coords = params[1]
             if coords:
                 x1,y1,x2,y2 = coords

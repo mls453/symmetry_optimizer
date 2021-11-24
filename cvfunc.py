@@ -118,6 +118,14 @@ def auto_crop(img):
     x1,y1,x2,y2 = get_bounding_box(img)
     return img[y1:y2,x1:x2]
 
+def auto_crop_color(img,bg_color=[255,255,255]):
+    """
+    Removes excessive blank space from a picture.
+    """
+    img_mask = color_threshold(img,sample_low=[bg_color],sample_high=[bg_color],invert=True)
+    x1,y1,x2,y2 = get_bounding_box(img_mask)
+    return img[y1:y2,x1:x2]
+
 def rotate_image(image, angle, pivot, l):
     """
     Rotates the image by an angle provided by `angle` (in degrees) relative to `pivot` and centers it also using `pivot`.
@@ -231,3 +239,11 @@ def symmetric_shift(A,bg_color=[255,255,255]):
     A = horizontal_symmetric_shift(A,bg_color)
     return A.transpose(1,0,2)
 
+def img_to_layer_mask(img,color_dict):
+    color_dict = color_dict.copy()
+    color_dict.pop("bg",None)
+    ncolors = len(color_dict)
+    if ncolors == 0:
+        raise ValueError("color_dict has no other colors than the background.")
+    layers = [(color_threshold(img,sample_low=[v[:3]],sample_high=[v[3:]])/255.0).astype(np.uint8) for k,v in color_dict.items()]
+    return layers, ncolors    
