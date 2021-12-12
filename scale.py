@@ -4,7 +4,7 @@ import argparse
 import os
 from tqdm import tqdm
 import glob
-import skimage
+from skimage import transform
 
 def resize(img,scale_height):
     h,w,c = img.shape
@@ -28,9 +28,9 @@ def resize2(img,scale_height,s):
 
 def resize3(img,scale_height):
     h,w,c = img.shape
-    return skimage.transform.resize(
+    return transform.resize(
         img,
-        (int(w*scale_height/h),scale_height),
+        (scale_height,int(w*scale_height/h)),
         mode="edge",
         anti_aliasing=False,
         anti_aliasing_sigma=None,

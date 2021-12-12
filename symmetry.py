@@ -35,47 +35,33 @@ def symmetry(img):
     chisq = img_xor.sum()/(area*area) if area!=0 else 0
     return chisq, area
 
-
-# def correl(img):
-#     area = img.sum()
-#     if area!=0:
-#         return 1-np.abs(np.corrcoef(img.ravel(),cv2.flip(img,1).ravel())[0,1]), area
-#     else:
-#         return 0,0
-
 def correl(img):
     if img.max()==255:
         img = (img/255).astype(np.uint8)
-    #img = (img/255).astype(np.uint8)
     area = img.sum()
     if area!=0:
-        #c = np.correlate(img.ravel(),cv2.flip(img,1).ravel())[0]
         c = (img&cv2.flip(img,1)).ravel().sum()
-        #logging.info(f"CORREL {c}")
         return (1-np.abs(c)/area), area
     else:
         return 0,0
 
 def s(X):
-    total_matches = (X==X[:,::-1]).sum()
-    n_ = int(X.max())
-    V = X.copy()
-    V[V!=0] = n_+1
-    V[V==0] = 1
-    V[V!=1] = 0
-    zero_matches = np.bitwise_and(V,V[:,::-1]).sum()
-    return total_matches - zero_matches
+    count = np.bitwise_and(X,X[:,::-1]).sum()
+    return count
     
 def symmetry_stochastic(img,color_dict):
-    layers, n = cvfunc.img_to_layer_mask(img,color_dict)
+    layers, _ = cvfunc.img_to_layer_mask(img,color_dict)
+    s_layer = list(map(s,layers))
+    n = np.count_nonzero(s_layer)
+    S = sum(s_layer) #Computed value
     A = np.array(layers).sum(axis=0)
     M = np.bitwise_and(A,A[:,::-1]).sum()
+    M = M/A.sum() #Relative pair count
     P = binom(M,1/n)
     E = M/n #Expectation value
-    S = sum(map(s,layers)) #Computed value
     std = P.std()
-    return (2/(1+np.exp((S-E)/A.sum())/std/np.sqrt(2)))-1
-
+    #return (2/(1+np.exp((S-E)/A.sum())/std/np.sqrt(2)))-1
+    return 2*P.cdf(S/A.sum()) - 1
 
 #===================================================
 
