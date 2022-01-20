@@ -45,23 +45,38 @@ def correl(img):
     else:
         return 0,0
 
-def s(X):
-    count = np.bitwise_and(X,X[:,::-1]).sum()
-    return count
+def Jaccard(X):
+    """
+    Calculates area of intersection over union of a picture mask.
+    """
+    count_and = np.bitwise_and(X,X[:,::-1]).sum()
+    count_or = np.bitwise_or(X,X[:,::-1]).sum()
+    jaccard = count_and/count_or if count_or != 0 else 0
+    return jaccard
     
+def symmetry_score_jaccard(img,color_dict):
+    """
+    Sums up Jaccard indexes of each color mask and divides by the number of colors.
+    A perfectly symmetric picture has a score of 1.
+    """
+    layers, n = cvfunc.img_to_layer_mask(img,color_dict)
+    j_layer = list(map(Jaccard,layers))
+    n = np.count_nonzero(j_layer)
+    score = sum(j_layer)/n if n !=0 else 0
+    return score
+
 def symmetry_stochastic(img,color_dict):
-    layers, _ = cvfunc.img_to_layer_mask(img,color_dict)
-    s_layer = list(map(s,layers))
+    layers, n = cvfunc.img_to_layer_mask(img,color_dict)
+    A = np.array(layers).sum(axis=0) #Whole picture mask
+    s_layer = list(map(Jaccard,layers))
     n = np.count_nonzero(s_layer)
-    S = sum(s_layer) #Computed value
-    A = np.array(layers).sum(axis=0)
-    M = np.bitwise_and(A,A[:,::-1]).sum()
-    M = M/A.sum() #Relative pair count
+    S = sum(s_layer)/A.sum() #Computed value
+    M = Jaccard(A)
+    M = M #Relative pair count
     P = binom(M,1/n)
     E = M/n #Expectation value
     std = P.std()
-    #return (2/(1+np.exp((S-E)/A.sum())/std/np.sqrt(2)))-1
-    return 2*P.cdf(S/A.sum()) - 1
+    return {"expected":E,"real":S}
 
 #===================================================
 
