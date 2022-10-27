@@ -1,6 +1,6 @@
 library(lmtest)
 library(imager)
-
+library(fmsb)
 
 image_test <- function(im1, im2) {
   
@@ -67,6 +67,17 @@ colour_isolate <- function(im1, im2, col = c("#000000","#0000FF", "#00AEF0", "#5
   
 }
 
+total_overlap <- function(im1, im2) {
+  
+  colours_im1 <- rgb(as.vector(im1[,,,1]), as.vector(im1[,,,2]), as.vector(im1[,,,3]))
+  colours_im2 <- rgb(as.vector(im2[,,,1]), as.vector(im2[,,,2]), as.vector(im2[,,,3]))
+    
+  output <- mean(colours_im1 == colours_im2)
+  
+  return(output)
+  
+}
+
 path <- "/Users/robertomolinari/OneDrive - Auburn University/Michael/images"
 
 path <- "C:/Users/rcm0075/OneDrive - Auburn University/Michael/images"
@@ -74,7 +85,7 @@ path <- "C:/Users/rcm0075/OneDrive - Auburn University/Michael/images"
 images <- list.files(path)
 n <- length(images)*(length(images) - 1)/2
 
-results <- data.frame("Image_1" = rep("NA", n), "Image_2" = rep("NA", n), "p_value" = rep(0, n), "Col_1" = rep(0, n), "Col_2" = rep(0, n), "Col_3" = rep(0, n), "Col_4" = rep(0, n), "Col_5" = rep(0, n), "Col_6" = rep(0, n), "Col_7" = rep(0, n), "Col_8" = rep(0, n))
+results <- data.frame("Image_1" = rep("NA", n), "Image_2" = rep("NA", n), "p_value" = rep(0, n), "Col_1" = rep(0, n), "Col_2" = rep(0, n), "Col_3" = rep(0, n), "Col_4" = rep(0, n), "Col_5" = rep(0, n), "Col_6" = rep(0, n), "Col_7" = rep(0, n), "Col_8" = rep(0, n), "Total_Agreement" = rep(0, n))
 
 
 pb <- txtProgressBar(min = 0,
@@ -98,7 +109,9 @@ for(i in 1:length(images)) {
     
     results[iter, 3] <- image_test(im1, im2)
     
-    results[iter, 4:11] <- colour_isolate(im1, im2)  
+    results[iter, 4:11] <- colour_isolate(im1, im2)
+    
+    results[iter, 12] <- total_overlap(im1, im2) 
     
     iter <- iter + 1
     
@@ -111,3 +124,14 @@ for(i in 1:length(images)) {
 save(results, file = "next_symmetry_tests.Rda")
 
 write.csv(results, file = "nest_symmetry_tests.csv")
+
+similar <- results[((results$p_value >= 0.05) & (results$p_value < 0.999)), ]
+non_similar <- results[(results$p_value < 0.05), ]
+
+# Compare proportion of expected similarities with proportion of expected non-similarities
+sum(substr(similar[,1], 1, nchar(similar[,1])-6) == substr(similar[,2], 1, nchar(similar[,2])-6))
+nrow(similar)
+sum(substr(non_similar[,1], 1, nchar(non_similar[,1])-6) == substr(non_similar[,2], 1, nchar(non_similar[,2])-6))
+nrow(non_similar)
+prop.test(c(35, 215), c(39, 10662), alternative = "greater")
+fisher.test(matrix(c(35, 215-35, 39, 10662-39), ncol=2), alternative = "greater")
