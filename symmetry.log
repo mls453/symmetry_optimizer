@@ -15334,3 +15334,9 @@
 2022-07-09 11:32:49,817 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymReg.otf) normal normal regular normal>) = 10.05
 2022-07-09 11:32:49,817 - matplotlib.font_manager - MainThread -  DEBUG - findfont: score(<Font 'Mukta Mahee' (MuktaMahee.ttc) normal normal regular normal>) = 10.05
 2022-07-09 11:32:49,817 - matplotlib.font_manager - MainThread -  DEBUG - findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/usr/local/Cellar/jupyterlab/2.1.5/libexec/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2022-11-15 16:27:04,986 - matplotlib - MainThread -  DEBUG - matplotlib data path: /usr/local/lib/python3.9/site-packages/matplotlib/mpl-data
+2022-11-15 16:27:04,993 - matplotlib - MainThread -  DEBUG - CONFIGDIR=/Users/michaelsmith/.matplotlib
+2022-11-15 16:27:04,994 - matplotlib - MainThread -  DEBUG - interactive is False
+2022-11-15 16:27:04,994 - matplotlib - MainThread -  DEBUG - platform is darwin
+2022-11-15 16:27:05,061 - matplotlib - MainThread -  DEBUG - CACHEDIR=/Users/michaelsmith/.matplotlib
+2022-11-15 16:27:05,063 - matplotlib.font_manager - MainThread -  DEBUG - Using fontManager instance from /Users/michaelsmith/.matplotlib/fontlist-v330.json
